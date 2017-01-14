@@ -7,36 +7,36 @@
 
 ### 每日
 
-[CocoaChina](http://www.cocoachina.com/)		[iOS developer:tips](http://iosdevelopertips.com/)		[NSHipster](http://nshipster.com/)（[中文站点](http://nshipster.cn/))		[RAYWENDERLICH](https://www.raywenderlich.com/)			[Big Nerd Ranch](https://www.bignerdranch.com/blog/)			[AppCoda](http://www.appcoda.com/)[CocoaControls](https://www.cocoacontrols.com/)
+【[CocoaChina](http://www.cocoachina.com/)】【[iOS developer:tips](http://iosdevelopertips.com/)】【[NSHipster](http://nshipster.com/)（[中文站点](http://nshipster.cn/))】【[RAYWENDERLICH](https://www.raywenderlich.com/)	】【[Big Nerd Ranch](https://www.bignerdranch.com/blog/)】【[AppCoda](http://www.appcoda.com/)[CocoaControls](https://www.cocoacontrols.com/)】										
 
 
 
 ### 周报
-[iOS Dev Weekly](https://iosdevweekly.com/)		[iOS Goodies](http://ios-goodies.com/)
+【[iOS Dev Weekly](https://iosdevweekly.com/)】【[iOS Goodies](http://ios-goodies.com/)】		
 
 
 
 ### 高质量
 
-[objc](https://www.objc.io/)([中文站点](https://www.objccn.io/))
+【[objc](https://www.objc.io/)([中文站点](https://www.objccn.io/))】
 
 
 
 ### 博客
 
-[喵神](https://onevcat.com/#blog)		[唐巧](http://blog.devtang.com/)		[玉令天下的博客](http://yulingtianxia.com/)		[南峰子的技术博客](http://southpeak.github.io/)		[里脊串的开发随笔](http://adad184.com/)
+【[喵神](https://onevcat.com/#blog)】【[唐巧](http://blog.devtang.com/)】【[玉令天下的博客](http://yulingtianxia.com/)】【[南峰子的技术博客](http://southpeak.github.io/)	】【[里脊串的开发随笔](http://adad184.com/)】						
 
 
 
 ### Swift
 
-[iOS Cookies](http://www.ioscookies.com/) 		[SoSo Swift](http://www.sososwift.com/)		[We ❤ Swift](http://www.weheartswift.com/)		[Swift 资源集合](https://swift.zeef.com/robin.eggenkamp)
+【[iOS Cookies](http://www.ioscookies.com/) 】【[We ❤ Swift](http://www.weheartswift.com/)】【[Swift 资源集合](https://swift.zeef.com/robin.eggenkamp)】【[SoSo Swift](http://www.sososwift.com/)】
 
 
 
 ### 其他
 
-[美团点评技术团队](http://tech.meituan.com/)		[InfoQ](http://www.infoq.com/cn/)		[ManiacDev](https://maniacdev.com/)
+【[美团点评技术团队](http://tech.meituan.com/)】【[ManiacDev](https://maniacdev.com/)】【[InfoQ](http://www.infoq.com/cn/)】		
 
 
 
@@ -78,9 +78,7 @@
 
 
 
-[All IT eBooks](http://www.allitebooks.com/)		IT书籍多，下载方便
-
-⭐️⭐️⭐️⭐️⭐️
+[All IT eBooks](http://www.allitebooks.com/)	IT书籍多，下载方便⭐️⭐️⭐️⭐️⭐️
 
 
 
@@ -108,7 +106,7 @@
 
 
 
-[好读](http://haodoo.net/)		[Wikibooks](https://en.wikibooks.org/wiki/Main_Page)		[高清杂志网](http://www.gqzzw.com/)		[World eBook Fair](http://worldebookfair.com/)		[中国国家图书馆](http://www.nlc.gov.cn/)		
+【[好读](http://haodoo.net/)】【[高清杂志网](http://www.gqzzw.com/)】【[中国国家图书馆](http://www.nlc.gov.cn/)】【[World eBook Fair](http://worldebookfair.com/)】【[Wikibooks](https://en.wikibooks.org/wiki/Main_Page)】										
 
 
 
@@ -138,4 +136,4 @@
 
 
 
-[ebooks search](http://ebooks-search-engine.com/)		 [PDF](http://pdf.rapid4me.com/) 		[pdf search](http://www.pdf-searcher.com/)  		    [PDFone](http://pdfone.com/)		 [PDF转换器](http://www.pdfdo.com/)		[ebook search](http://www.ebook-search-engine.net/)  
+【[ebooks search](http://ebooks-search-engine.com/)】【[pdf search](http://www.pdf-searcher.com/) 】【 [PDF](http://pdf.rapid4me.com/) 】【 [PDFone](http://pdfone.com/)】【[ebook search](http://www.ebook-search-engine.net/)】【[PDF转换器](http://www.pdfdo.com/)】			 		   		 		  
