@@ -40,6 +40,8 @@
 
 
 
+***
+
 
 
 ## 图书
@@ -136,4 +138,42 @@
 
 
 
-【[ebooks search](http://ebooks-search-engine.com/)】【[pdf search](http://www.pdf-searcher.com/) 】【 [PDF](http://pdf.rapid4me.com/) 】【 [PDFone](http://pdfone.com/)】【[ebook search](http://www.ebook-search-engine.net/)】【[PDF转换器](http://www.pdfdo.com/)】			 		   		 		  
+【[ebooks search](http://ebooks-search-engine.com/)】【[pdf search](http://www.pdf-searcher.com/) 】【 [PDF](http://pdf.rapid4me.com/) 】【 [PDFone](http://pdfone.com/)】【[ebook search](http://www.ebook-search-engine.net/)】【[PDF转换器](http://www.pdfdo.com/)】			 	
+
+
+
+***
+
+
+
+## 开发者工具
+
+
+
+
+
+
+
+
+
+***
+
+
+
+## 软件精选
+
+
+
+### Mac
+
+
+
+【[Alfred 3](http://www.alfredworkflow.com/)】【[Noizio](http://noiz.io/)】【[Sketch](https://www.sketchapp.com/)   [中文](http://www.sketchcn.com/)】【[Bartender](http://ww.macbartender.com/)】【[Ulysses](http://www.ulyssesapp.com/)】【[Xmind](http://www.xmind.net/)】【[SublimeText](http://www.sublimetext.com/)】【Qbserve】【Tuxera NTFS】【xScope】【XtraFinder】【MacDown】【[VimR](http://vimr.org/)】【[KeyCue](http://www.ergonis.com/products/keycue/)】【[WWDC](https://github.com/insidegui/WWDC)】【[Boom](http://www.globaldelight.com/)】【[Capo](http://supermegaultragroovy.com/products/capo/)】【[EarMaster](http://www.earmaster.com/)】【[HandBrake](https://handbrake.fr/)】【[ScreenFlow](http://www.telestream.net/screenflow/overview.htm)】【[AirServer](http://www.airserver.com/)】【[Manico](https://manico.im/)】【[Bartender](http://ww.macbartender.com/)】【[BetterTouchTool](https://www.boastr.net/)】【[Contexts](https://contexts.co/)】【[TeamViewer](https://www.teamviewer.com/zhcn/download/mac/)】【[Icon Slate](http://www.kodlian.com/)】【[Ultraedit](http://www.ultraedit.com/products/mac-text-editor.html)】【CoreAnimator】【PaintCode】【PlistEditPro】【Snippet Edit】【QuartzCode】【SecureCRT】【VisualDiffer】【SqliteBrowser】【TinkerTool】【WebServerPreferencePane】【CakeBrew】【DictUnifier】【FauxPas】【Paw】【Reveal】【SparkInspector】【Symbolicate】【Wireshark】【SimPholders】【Snagit】【TabLauncher】【TextWrangler】【uBar】【LittleSnitch】【Flux】【Fantastical】
+
+
+
+### Windows
+
+
+
+【[易捷科技](http://cn.ejie.me/)】【[Feedly](http://feedly.com/i/welcome)】【[ommwriter](http://www.ommwriter.com/en/)】【[everything](http://xbeta.info/everything/index.htm)】【[Launchy]( http://launchy.net/)】【[calibre](http://calibre-ebook.com/)】【[ExtendOffice](https://www.extendoffice.com/)】【[Adobe Digital Editions](http://www.adobe.com/solutions/ebook/digital-editions.html)】【[foobar2000](http://www.foobar2000.cc/)】【[FileWall](http://hummerstudio.com/)】【[Total Commander](http://www.ghisler.com/)】【[XUS PC Lock]([]: http://xussoft.com/xuspclock/[]: )】【[Q10](http://baara.com/q10/)】【[XYPLORERFREE](https://www.xyplorer.com/free.php)】【[Database tool and report generator](http://www.databasetour.net/)】【[Doc-O-Matic](http://www.doc-o-matic.com/index2.html)】【[迅捷](http://www.integrech.cn/index_cn.htm)】【[NirSoft](http://www.nirsoft.net/)】	 【[Pidgin](http://pidgin.im/)】【[Understand](https://scitools.com/)】【[ArgoUML](http://argouml.tigris.org/)】【[Lope soft](http://www.lopesoft.com/)】
