@@ -148,15 +148,34 @@
 
 ## 开发者工具
 
+### 编程
+【[在线工具](http://www.atool.org/)】【[Convert CSV or Excel File To SQLite](http://converttosqlite.com/)】【[DB Tools](http://www.whitetown.com/)】【[worktile](https://worktile.com)】【[Json可视化](http://json.bloople.net/)】【[站长工具](http://tool.chinaz.com/)】【[Unicode编码转换](http://tool.chinaz.com/Tools/Unicode.aspx)】【[云梯](https://www.yuntibit.com)】【[Bitbucket](https://bitbucket.org/)】【[Cocoa Docs](http://cocoadocs.org/)】【CocoaPos】【[Github](https://github.com/)】【[Open Hub](https://www.openhub.net/)】【[Code Project](http://www.codeproject.com/)】【[Code review](http://reviewcode.cn/)】
 
+### 视觉
 
+【[在线颜色选择器 | RGB颜色查询对照表]([]: http://www.atool.org/colorpicker.php[]: ) （[主站](http://www.atool.org/)）】【[百度移动用户体验部](http://mux.baidu.com/)】【[腾讯MXD移动互联网设计中心](http://mxd.tencent.com/)】【[Dribbble](https://dribbble.com/)】【[Capptivate](http://capptivate.co/)】【[icons8](https://icons8.com/)】【[Behance](https://www.behance.net/)】【[Mobile Design Patterns](http://pttrns.com/)】【[Font Awesome](http://fontawesome.io/)】【[clker](http://www.clker.com/)】【[icon finder](https://www.iconfinder.com/)】【[App Animations](http://www.appanimations.com/)】【[iconion](http://iconion.com/)】【[font squirrel](https://www.fontsquirrel.com/)】【[Free fonts](http://www.1001freefonts.com/)】【[百度Web前段研发部](http://fex.baidu.com/)】【[Flaticon](http://www.flaticon.com/) 】【[Web Design](http://www.webdesignerdepot.com/)】【[UI4App](http://ui4app.com/)】【[Sketch news](http://sketchnews.co/)】【[background labs](http://www.backgroundlabs.com/)】【[Facebook Design](http://facebook.design/)】【[iOS Design](https://designcode.io/)】【[make App icon](http://makeappicon.com/)】【[icons to png](http://fa2png.io/)】【[H5百度](http://h5.baidu.com/)】
 
+### 指南
 
+【[Stack Overflow](https://stackoverflow.com/)】【[Quora](https://www.quora.com/)】【[Segment Fault](https://segmentfault.com/)】【[Slant](https://segmentfault.com/)】【[Slide Share](http://www.slideshare.net/)】
 
+### 开放平台
 
+【[微信](https://open.weixin.qq.com )】【[微博](http://open.weibo.com/)】【[腾讯](http://op.open.qq.com/)】【[有道云笔记](http://note.youdao.com/open)】【[印象笔记](https://dev.yinxiang.com/)】【[豆瓣](https://developers.douban.com)】【[Twitter](https://dev.twitter.com/)】【[人人](http://open.renren.com/)】【[支付宝](https://doc.open.alipay.com/)】【[微信支付](https://pay.weixin.qq.com)】【[Facebook](https://developers.facebook.com)】【[气象数据开放平台](http://openweather.weather.com.cn/)】
 
+### 开发者服务
+
+【[App竞品大数据平台](http://www.appduu.com/)】【[China App](http://www.chinaapp.org/)】【[墨刀](https://modao.cc)】【[APIStore百度](http://apistore.baidu.com/)】【[GPSspg查询网](http://www.gpsspg.com/)】【[中国互联网数据平台](http://www.cnidp.cn/)】【[聚合数据平台](http://www.fenxi.com/)】【[Talking Data](http://www.talkingdata.com/)】【[Api tools](https://www.apitools.com/)】【[5sing 音乐解析](http://5sing.uyy.so/)】【[APICloud](http://www.apicloud.com/)】【[Mob](http://www.mob.com/)】【[Fabric](https://fabric.io)】【[Fir](http://fir.im/)】【[Test Flight](https://www.testflightapp.com/)】【[爱开发](http://www.akaifa.com/)】【[DevStore](http://www.devstore.cn/)】【[在线API](http://swagger.io/)】【[SDK](https://www.sdk.cn)】【[AnySDK](http://www.anysdk.com/)】【[程序员客栈](https://www.proginn.com/)】【[解放号](https://www.jointforce.com)】【[Ping++](https://www.pingxx.com)】【[环信](http://www.easemob.com/)】【[Google在线Api](https://developers.google.com/tag-manager/ios/v3/)】【[Hockey App](https://www.hockeyapp.net)】【[SoBug](https://sobug.com/)】【[Flurry](https://dev.flurry.com)】【[云之声](http://www.unisound.com/)】【[极客帮](http://www.looip.cn/)】【[Bugly](https://bugly.qq.com)】
 
 ***
+
+
+
+## 编程指引
+
+
+
+
 
 
 
