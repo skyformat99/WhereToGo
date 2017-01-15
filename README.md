@@ -2,7 +2,7 @@
 
 ### 每日
 
-【[CocoaChina](http://www.cocoachina.com/)】【[iOS developer:tips](http://iosdevelopertips.com/)】【[NSHipster](http://nshipster.com/)（[中文站点](http://nshipster.cn/))】【[RAYWENDERLICH](https://www.raywenderlich.com/)	】【[Big Nerd Ranch](https://www.bignerdranch.com/blog/)】【[AppCoda](http://www.appcoda.com/)[CocoaControls](https://www.cocoacontrols.com/)】										
+【[CocoaChina](http://www.cocoachina.com/)】【[iOS developer:tips](http://iosdevelopertips.com/)】【[NSHipster](http://nshipster.com/)（[中文站点](http://nshipster.cn/))】【[RAYWENDERLICH](https://www.raywenderlich.com/)	】【[Big Nerd Ranch](https://www.bignerdranch.com/blog/)】【[AppCoda](http://www.appcoda.com/)】【[CocoaControls](https://www.cocoacontrols.com/)】										
 ### 周报
 【[iOS Dev Weekly](https://iosdevweekly.com/)】【[iOS Goodies](http://ios-goodies.com/)】		
 ### 高质量
@@ -258,31 +258,21 @@
 
 ## iOS 开发
 
-【[objc](https://www.objc.io/)([中文站点](https://www.objccn.io/))  ⭐️⭐️⭐️⭐️⭐️】【[NSHipster](http://nshipster.com/)（[中文站点](http://nshipster.cn/)）⭐️⭐️⭐️⭐️⭐️】【[Big Nerd Ranch](https://www.bignerdranch.com/blog/) 】【[iOS developer:tips](http://iosdevelopertips.com/)】 【[梦维](http://www.dreamingwish.com/) 】【[RAYWENDERLICH](https://www.raywenderlich.com/)  ⭐️⭐️⭐️⭐️⭐️】【 [AppCoda](http://www.appcoda.com/) ⭐️⭐️⭐️⭐️⭐️】【 [InfoQ](http://www.infoq.com/cn/)】
-
 
 
 ### 博客
 
 
 
-【 [Casa Taloyum](http://casatwy.com/) 】【[Ole Begemann](http://oleb.net/)】【[猫·仁波切](https://andelf.github.io/) 】【[Glow 技术团队博客](http://tech.glowing.com/cn/)】【[图拉鼎](https://imtx.me/)】【 [酷壳](http://coolshell.cn/)  】【[美团点评技术团队](http://tech.meituan.com/) 】【 [编程随想的博客](https://program-think.blogspot.com/)】【[Bartosz Ciechanowski](http://ciechanowski.me/)⭐️⭐️⭐️⭐️⭐️ 】【[Peter Steinberger](http://petersteinberger.com/)】【[Luke's Homepage](http://geeklu.com/) 】【 [破船之家](http://beyondvincent.com/)】【[念茜的博客](http://blog.csdn.net/yiyaaixuexi)⭐️⭐️⭐️⭐️⭐️ 】【[码农人生](http://msching.github.io/) ⭐️⭐️⭐️⭐️⭐️ 】【[Travis.Wang](http://imi.im/)】【[Krzysztof Zabłocki](http://merowing.info/) 】【[David Smith](https://david-smith.org/)】【[Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/)】
+【 [Casa Taloyum](http://casatwy.com/) 】【[Ole Begemann](http://oleb.net/)】【[猫·仁波切](https://andelf.github.io/) 】【[Glow 技术团队博客](http://tech.glowing.com/cn/)】【[图拉鼎](https://imtx.me/)】【 [酷壳](http://coolshell.cn/)  】【 [编程随想的博客](https://program-think.blogspot.com/)】【[Bartosz Ciechanowski](http://ciechanowski.me/)⭐️⭐️⭐️⭐️⭐️ 】【[Peter Steinberger](http://petersteinberger.com/)】【[Luke's Homepage](http://geeklu.com/) 】【 [破船之家](http://beyondvincent.com/)】【[念茜的博客](http://blog.csdn.net/yiyaaixuexi)⭐️⭐️⭐️⭐️⭐️ 】【[码农人生](http://msching.github.io/) ⭐️⭐️⭐️⭐️⭐️ 】【[Travis.Wang](http://imi.im/)】【[Krzysztof Zabłocki](http://merowing.info/) 】【[David Smith](https://david-smith.org/)】【[Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/)】 【[梦维](http://www.dreamingwish.com/) 】
 
 
 
-### Objective-C
+### 语言
 
 
 
-【[Apple 开源](http://opensource.apple.com/) 】【[GNU 开源实现Objective-C 2.0](http://gnustep.org/)】【[Clang编译器](http://clang.llvm.org/)   】【[iOS技术周报](http://weekly.ios-wiki.com/history)】【[iOS Dev Weekly](https://iosdevweekly.com/)】【[iOS Goodies](http://ios-goodies.com/)】【[ManiacDev](https://maniacdev.com/)】
-
-
-
-# Swift
-
-
-
-【 [Swift官网](https://swift.org/)   】【[Apple Swift Resources](https://developer.apple.com/swift/resources/)】【[The Swift Programming Language中文版](http://wiki.jikexueyuan.com/project/swift/) 】【[The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0)】【 [Swift lang](https://swiftlang.eu/)  】【[iOS Cookies](http://www.ioscookies.com/)】【[SoSo Swift](http://www.sososwift.com/) 】【[We ❤ Swift](http://www.weheartswift.com/)】【[Swift tips](http://swifter.tips/) 】【[Learn Swift](http://learnswift.tips/)】【 [泊学](https://boxueio.com/) 】【[SwiftGG](http://swift.gg/)    】【 [SwiftV课堂](http://www.swiftv.cn/) 】【[Swift开发者周刊](http://swiftweekly.cn/)】【 [Swift 资源集合](https://swift.zeef.com/robin.eggenkamp)】
+【[Apple 开源](http://opensource.apple.com/) 】【[GNU 开源实现Objective-C 2.0](http://gnustep.org/)】【[Clang编译器](http://clang.llvm.org/)   】【[iOS技术周报](http://weekly.ios-wiki.com/history)】【 [Swift官网](https://swift.org/)   】【[Apple Swift Resources](https://developer.apple.com/swift/resources/)】【[The Swift Programming Language中文版](http://wiki.jikexueyuan.com/project/swift/) 】【[The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0)】【 [Swift lang](https://swiftlang.eu/)  】【[Swift tips](http://swifter.tips/) 】【[Learn Swift](http://learnswift.tips/)】【 [泊学](https://boxueio.com/) 】【[SwiftGG](http://swift.gg/)    】【 [SwiftV课堂](http://www.swiftv.cn/) 】【[Swift开发者周刊](http://swiftweekly.cn/)】
 
 
 
@@ -304,7 +294,7 @@
 
 
 
-【  [Reveal](http://revealapp.com/)	UI调试工具  】【[Launch Kit](https://launchkit.io/)】【[Apple Dev Download](https://developer.apple.com/downloads/)】【[APNs推送测试](http://www.pushwatch.com/apns/)】【[Apple API测试](https://www.osstatus.com)	Look up Apple API errors fast! 】【 [APNs推送测试](http://apns-gcm.bryantan.info/)】【[Infer](http://fbinfer.com/) （[中文](http://infer.liaohuqiu.net/docs/getting-started.html)）代码静态分析工具】【 [Safedk](https://www.safedk.com/) 	Find the Best SDK for You!  】
+【  [Reveal](http://revealapp.com/)	UI调试工具  】【[Launch Kit](https://launchkit.io/)】【[Apple Dev Download](https://developer.apple.com/downloads/)】【[APNs推送测试](http://www.pushwatch.com/apns/)】【[Apple API测试](https://www.osstatus.com)	Look up Apple API errors fast! 】【 [APNs推送测试](http://apns-gcm.bryantan.info/)】【[Infer](http://fbinfer.com/) （[中文](http://infer.liaohuqiu.net/docs/getting-started.html)）代码静态分析工具】【 [Safedk](https://www.safedk.com/) 	Find the Best SDK for You!  】【[xamarin](https://www.xamarin.com) 	移动跨平台开发解决方案】【 [苹果开发者联盟](http://www.iosappx.com/)	中文互联网最大的苹果开发资源归类网站 】
 
 
 
@@ -313,10 +303,6 @@
 【[SDWebimage](https://bpoplauschi.wordpress.com/2014/03/21/ios-image-caching-sdwebimage-vs-fastimage/)】【 [SDWebimage](http://iphonedevsdk.com/forum/iphone-sdk-development/119971-downloading-multiple-images-with-sdwebimage-and-notify-when-finished.html)】
 
 
-
-### 其他
-
-【 [Cocoa China](http://www.cocoachina.com/)】【 [苹果开发者联盟](http://www.iosappx.com/)	中文互联网最大的苹果开发资源归类网站 】【[xamarin](https://www.xamarin.com) 	移动跨平台开发解决方案】【[Appcoda](https://www.appcoda.com/)】
 
 ***
 
@@ -328,7 +314,7 @@
 
 
 
-【[GitHut](http://githut.info/)	 A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB】【[Gist box](https://app.gistboxapp.com)】【[Git Constellation](http://gitconstellation.com/)	GitHub star management on steroids! Organise your GitHub stars by arranging them into lists or tagging repositories, share those lists with friends or keep them private.】【[omniref](https://www.omniref.com/)	Intelligent annotation for your source code.】【[First Aid git](http://firstaidgit.io/)	the most frequently asked questions about git issues】【[Pro Git v2 中文版](http://wiki.jikexueyuan.com/project/pro-git-two/)】【[GitHuber](http://githuber.info/)】【[GitHub Ranking](https://github-ranking.com)	GitHub star ranking for users, organizations and repositories.】【[Octicons icons](http://fa2png.io/r/octicons/)】【[shields io	](http://shields.io/)生成readme.md图标】【[CODELF	](http://unbug.github.io/codelf/)Search over projects from GitHub, Bitbucket, Google Code and more to find】【[Github Awards](http://github-awards.com/)】【[Gist box](https://app.gistboxapp.com)】【[Github Hunter](https://octohunt.com/)	Find Developer on github】【[GitHub Reviews](https://githubreviews.com/)】【】【】【】【】【】【】【】【】【】
+【[GitHut](http://githut.info/)	 A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB】【[Gist box](https://app.gistboxapp.com)】【[Git Constellation](http://gitconstellation.com/)	GitHub star management on steroids! Organise your GitHub stars by arranging them into lists or tagging repositories, share those lists with friends or keep them private.】【[omniref](https://www.omniref.com/)	Intelligent annotation for your source code.】【[First Aid git](http://firstaidgit.io/)	the most frequently asked questions about git issues】【[Pro Git v2 中文版](http://wiki.jikexueyuan.com/project/pro-git-two/)】【[GitHuber](http://githuber.info/)】【[GitHub Ranking](https://github-ranking.com)	GitHub star ranking for users, organizations and repositories.】【[Octicons icons](http://fa2png.io/r/octicons/)】【[shields io	](http://shields.io/)生成readme.md图标】【[CODELF	](http://unbug.github.io/codelf/)Search over projects from GitHub, Bitbucket, Google Code and more to find】【[Github Awards](http://github-awards.com/)】【[Gist box](https://app.gistboxapp.com)】【[Github Hunter](https://octohunt.com/)	Find Developer on github】【[GitHub Reviews](https://githubreviews.com/)】
 
 
 
