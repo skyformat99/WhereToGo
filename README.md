@@ -1,8 +1,3 @@
-# 个人网址导航
-个人网址指南
-
-
-
 ## 优质iOS资源
 
 ### 每日
@@ -16,7 +11,11 @@
 
 ### 博客
 
-【[喵神](https://onevcat.com/#blog)】【[唐巧](http://blog.devtang.com/)】【[玉令天下的博客](http://yulingtianxia.com/)】【[南峰子的技术博客](http://southpeak.github.io/)	】【[里脊串的开发随笔](http://adad184.com/)】						
+【[唐巧](http://blog.devtang.com/) ⭐️⭐️⭐️⭐️】【[ibireme](http://blog.ibireme.com/)⭐️⭐️⭐️⭐️⭐️】【 [喵神](https://onevcat.com/#blog)⭐️⭐️⭐️⭐️⭐️】
+
+
+
+【[玉令天下的博客](http://yulingtianxia.com/)】【[南峰子的技术博客](http://southpeak.github.io/)	】【[里脊串的开发随笔](http://adad184.com/)】						
 
 ### Swift
 
@@ -25,8 +24,6 @@
 ### 其他
 
 【[美团点评技术团队](http://tech.meituan.com/)】【[ManiacDev](https://maniacdev.com/)】【[InfoQ](http://www.infoq.com/cn/)】		
-
-
 
 
 
@@ -98,7 +95,45 @@
 
 ### 电子书
 
-【[苦瓜书盘](http://kgbook.com/)	适合电纸书阅读的6寸pdf及mobi格式电子书制作技术的网站，提供电子书分享的平台 】【[Gutenberg](http://www.gutenberg.org/)		Project Gutenberg offers over 50,000 free ebooks: choose among free epub books, free kindle books, download them or read them online.】【[Bartleby](http://www.bartleby.com/)		Great books online】【[Literature](http://literature.org/)		An Online Library of Literature】【[Fenby](http://www.fenby.com/)		最好的IT图书阅读平台】【[EBOOKSBUCKET](http://www.ebooksbucket.com/)		Free PDF eBooks to Read Online and Download for Students, Developers, Engineers and every kind of reader.】【[IT eBooks](http://it-ebooks.info/)		下载方便】【[GetFreeEbooks](http://www.getfreeebooks.com/)		brings both authors and readers into the world of free legal ebooks】【[All IT eBooks](http://www.allitebooks.com/)	IT书籍多，下载方便⭐️⭐️⭐️⭐️⭐️】【[FreeTechBooks](http://www.freetechbooks.com/)		Database of Free Online Computer Science and Programming Books, Textbooks, and Lecture Notes。		科技书籍，下载方便。】【[FreeComputerBooks](http://www.freetechbooks.com/)		Free Computer, Mathematics, Technical Books and Lecture Notes, etc。部分书籍只提供试读。】【[OnlineProgrammingBooks](http://www.freetechbooks.com/)		Legally Free Computer Books。在线阅读，资源不多。】【[SaltTiger](http://www.salttiger.com/)		每天一本编程书，每天进步一点点。		下载方便，书源充足】【[Fox eBook](http://www.foxebook.net/)		Amazing Free eBook Download Site!Newest Free eBook Share!Free Download PDF, EPUB, MOBI eBooks。		资源丰富，下载稍麻烦】【[EBOOKEE](http://www.ebookee.net/)		资源极其丰富，很多不能下载。】
+【[苦瓜书盘](http://kgbook.com/)	适合电纸书阅读的6寸pdf及mobi格式电子书制作技术的网站，提供电子书分享的平台 】
+
+
+
+【[Gutenberg](http://www.gutenberg.org/)		Project Gutenberg offers over 50,000 free ebooks: choose among free epub books, free kindle books, download them or read them online.】
+
+
+
+【[EBOOKSBUCKET](http://www.ebooksbucket.com/)		Free PDF eBooks to Read Online and Download for Students, Developers, Engineers and every kind of reader.】
+
+
+
+【[EBOOKSBUCKET](http://www.ebooksbucket.com/)		Free PDF eBooks to Read Online and Download for Students, Developers, Engineers and every kind of reader.】
+
+
+
+【[GetFreeEbooks](http://www.getfreeebooks.com/)		brings both authors and readers into the world of free legal ebooks】【[All IT eBooks](http://www.allitebooks.com/)	IT书籍多，下载方便⭐️⭐️⭐️⭐️⭐️】
+
+
+
+【[FreeTechBooks](http://www.freetechbooks.com/)		Database of Free Online Computer Science and Programming Books, Textbooks, and Lecture Notes。		科技书籍，下载方便。】
+
+
+
+【[FreeComputerBooks](http://www.freetechbooks.com/)		Free Computer, Mathematics, Technical Books and Lecture Notes, etc。部分书籍只提供试读。】
+
+
+
+【[OnlineProgrammingBooks](http://www.freetechbooks.com/)		Legally Free Computer Books。在线阅读，资源不多。】【[SaltTiger](http://www.salttiger.com/)		每天一本编程书，每天进步一点点。		下载方便，书源充足】
+
+
+
+【[Fox eBook](http://www.foxebook.net/)		Amazing Free eBook Download Site!Newest Free eBook Share!Free Download PDF, EPUB, MOBI eBooks。		资源丰富，下载稍麻烦】
+
+
+
+【[Bartleby](http://www.bartleby.com/)	Great books online】【[Literature](http://literature.org/)	An Online Library of Literature】【[Fenby](http://www.fenby.com/)	 最好的IT图书阅读平台】【[IT eBooks](http://it-ebooks.info/)	下载方便】【[EBOOKEE](http://www.ebookee.net/)	资源极其丰富，很多不能下载。】
+
+
 
 【[好读](http://haodoo.net/)】【[高清杂志网](http://www.gqzzw.com/)】【[中国国家图书馆](http://www.nlc.gov.cn/)】【[World eBook Fair](http://worldebookfair.com/)】【[Wikibooks](https://en.wikibooks.org/wiki/Main_Page)】										
 
@@ -108,7 +143,11 @@
 
 
 
-【[狗耳朵](http://www.dogear.cn)  全文RSS和微信公众号推送服务，支持Kindle、多看和Nook等移动电子阅读设备】【[Amazon 管理内容和设备](https://www.amazon.cn/gp/digital/fiona/manage/ref=sv_kinc_14) 】【[Amazon CloudDrive](https://www.amazon.cn/clouddrive/)】
+【[狗耳朵](http://www.dogear.cn)  全文RSS和微信公众号推送服务，支持Kindle、多看和Nook等移动电子阅读设备】
+
+
+
+【[Amazon 管理内容和设备](https://www.amazon.cn/gp/digital/fiona/manage/ref=sv_kinc_14) 】【[Amazon CloudDrive](https://www.amazon.cn/clouddrive/)】
 
 
 
@@ -156,7 +195,7 @@
 ### 算法
 
 
-【[SORTING 排序算法](http://sorting.at/)】【[Top Coder](http://www.topcoder.com/)】【[Hacker Earth](https://www.hackerearth.com/)】【[Codility](https://codility.com/programmers/)】【[Sphere online judge](http://www.spoj.com/)】【 [Code eval](https://www.codeeval.com/)】【[Hacker Rank](https://www.hackerrank.com/)】【[Code Wars](https://www.codewars.com/)】【 [Coder byte](https://coderbyte.com/)】【[Project Euler](https://projecteuler.net/)】【 [Code Chef](http://www.codechef.com/) 】【 [杭电ACM](http://acm.hdu.edu.cn/)】【[ACM之家](http://www.acmerblog.com/) 】【[演算法笔记](http://www.csie.ntnu.edu.tw/)】【 [浙大ACM](http://acm.zju.edu.cn/)】【[北大ACM](http://poj.org/) 】【[编程中国-数据结构](http://old.bccn.net/Article/kfyy/sjjg/List_1.html) 】【[Learn Algorithms](http://www.learnalgorithms.in/)】【 [Book-Data Structures and Algorithms](http://www.brpreiss.com/)】【】【】【】【】【】
+【[SORTING 排序算法](http://sorting.at/)】【[Top Coder](http://www.topcoder.com/)】【[Hacker Earth](https://www.hackerearth.com/)】【[Codility](https://codility.com/programmers/)】【[Sphere online judge](http://www.spoj.com/)】【 [Code eval](https://www.codeeval.com/)】【[Hacker Rank](https://www.hackerrank.com/)】【[Code Wars](https://www.codewars.com/)】【 [Coder byte](https://coderbyte.com/)】【[Project Euler](https://projecteuler.net/)】【 [Code Chef](http://www.codechef.com/) 】【 [杭电ACM](http://acm.hdu.edu.cn/)】【[ACM之家](http://www.acmerblog.com/) 】【[演算法笔记](http://www.csie.ntnu.edu.tw/)】【 [浙大ACM](http://acm.zju.edu.cn/)】【[北大ACM](http://poj.org/) 】【[编程中国-数据结构](http://old.bccn.net/Article/kfyy/sjjg/List_1.html) 】【[Learn Algorithms](http://www.learnalgorithms.in/)】【 [Book-Data Structures and Algorithms](http://www.brpreiss.com/)】
 
 
 ### C/C++
@@ -194,13 +233,13 @@
 
 ### 博客
 
-【[程序人生](http://www.programlife.net/)】【[MIND HACKS](http://mindhacks.cn/)】【[虾皮工作室](http://www.cnblogs.com/xia520pi/)】【[云风的 BLOG](http://blog.codingnow.com/)】【[阿里中间件团队博客](http://jm.taobao.org/)】【[奇虎360技术博客](http://blogs.360.cn/)】【[Cookie/Session机制详解](http://blog.csdn.net/fangaoxin/article/details/6952954)】【】【】【】【】【】【】【】【】【】【】【】【】【】【】【】【】【】
+【[程序人生](http://www.programlife.net/)】【[MIND HACKS](http://mindhacks.cn/)】【[虾皮工作室](http://www.cnblogs.com/xia520pi/)】【[云风的 BLOG](http://blog.codingnow.com/)】【[阿里中间件团队博客](http://jm.taobao.org/)】【[奇虎360技术博客](http://blogs.360.cn/)】【[Cookie/Session机制详解](http://blog.csdn.net/fangaoxin/article/details/6952954)】
 
 
 
 ### 建站
 
-【[Joomla](https://www.joomla.org/) 】【 [](http://www.magentochina.org/) 】【[DNSPOD](https://www.dnspod.cn)】【[百度站长](http://zhanzhang.baidu.com/dashboard/index)】【[友言](http://www.uyan.cc/) 】【[友荐](http://www.ujian.cc/)  】【[XMPP](https://www.apachefriends.org/zh_cn/index.html)】【[多说](http://duoshuo.com/)】【[GoDaddy](www.godaddy.com)  】【 [CNZZ](http://www.cnzz.com/) 】【[友盟](http://www.umeng.com/) 】【  [Hexo](https://hexo.io/)   】【[Hexo Next 主题](http://theme-next.iissnan.com/getting-started.html)】【 [百度统计](http://tongji.baidu.com/) 】【】【】【】
+【[Joomla](https://www.joomla.org/) 】【 [Magento](http://www.magentochina.org/) 】【[DNSPOD](https://www.dnspod.cn)】【[百度站长](http://zhanzhang.baidu.com/dashboard/index)】【[友言](http://www.uyan.cc/) 】【[友荐](http://www.ujian.cc/)  】【[XMPP](https://www.apachefriends.org/zh_cn/index.html)】【[多说](http://duoshuo.com/)】【[GoDaddy](www.godaddy.com)  】【 [CNZZ](http://www.cnzz.com/) 】【[友盟](http://www.umeng.com/) 】【  [Hexo](https://hexo.io/)   】【[Hexo Next 主题](http://theme-next.iissnan.com/getting-started.html)】【 [百度统计](http://tongji.baidu.com/) 】
 
 ###  数据库
 
@@ -227,9 +266,7 @@
 
 
 
-【[唐巧](http://blog.devtang.com/) ⭐️⭐️⭐️⭐️】【[ibireme](http://blog.ibireme.com/)⭐️⭐️⭐️⭐️⭐️】【 [喵神](https://onevcat.com/#blog)⭐️⭐️⭐️⭐️⭐️】
-
-【 [Casa Taloyum](http://casatwy.com/) 】【[玉令天下的博客](http://yulingtianxia.com/)】【[Ole Begemann](http://oleb.net/)】【[猫·仁波切](https://andelf.github.io/) 】【[Glow 技术团队博客](http://tech.glowing.com/cn/)】【[图拉鼎](https://imtx.me/)】【 [酷壳](http://coolshell.cn/)  】【[美团点评技术团队](http://tech.meituan.com/) 】【 [编程随想的博客](https://program-think.blogspot.com/)】【[Bartosz Ciechanowski](http://ciechanowski.me/)⭐️⭐️⭐️⭐️⭐️ 】【[Peter Steinberger](http://petersteinberger.com/)】【[里脊串的开发随笔](http://adad184.com/)  】【[南峰子的技术博客](http://southpeak.github.io/)】【[Luke's Homepage](http://geeklu.com/) 】【 [破船之家](http://beyondvincent.com/)】【[念茜的博客](http://blog.csdn.net/yiyaaixuexi)⭐️⭐️⭐️⭐️⭐️ 】【[码农人生](http://msching.github.io/) ⭐️⭐️⭐️⭐️⭐️ 】【[Travis.Wang](http://imi.im/)】【[Krzysztof Zabłocki](http://merowing.info/) 】【[David Smith](https://david-smith.org/)】【[Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/)】
+【 [Casa Taloyum](http://casatwy.com/) 】【[Ole Begemann](http://oleb.net/)】【[猫·仁波切](https://andelf.github.io/) 】【[Glow 技术团队博客](http://tech.glowing.com/cn/)】【[图拉鼎](https://imtx.me/)】【 [酷壳](http://coolshell.cn/)  】【[美团点评技术团队](http://tech.meituan.com/) 】【 [编程随想的博客](https://program-think.blogspot.com/)】【[Bartosz Ciechanowski](http://ciechanowski.me/)⭐️⭐️⭐️⭐️⭐️ 】【[Peter Steinberger](http://petersteinberger.com/)】【[Luke's Homepage](http://geeklu.com/) 】【 [破船之家](http://beyondvincent.com/)】【[念茜的博客](http://blog.csdn.net/yiyaaixuexi)⭐️⭐️⭐️⭐️⭐️ 】【[码农人生](http://msching.github.io/) ⭐️⭐️⭐️⭐️⭐️ 】【[Travis.Wang](http://imi.im/)】【[Krzysztof Zabłocki](http://merowing.info/) 】【[David Smith](https://david-smith.org/)】【[Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/)】
 
 
 
