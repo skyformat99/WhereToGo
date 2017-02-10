@@ -19,7 +19,7 @@
 
 ### Swift
 
-【[iOS Cookies](http://www.ioscookies.com/) 】【[We ❤ Swift](http://www.weheartswift.com/)】【[Swift 资源集合](https://swift.zeef.com/robin.eggenkamp)】【[SoSo Swift](http://www.sososwift.com/)】
+【[iOS Cookies](http://www.ioscookies.com/) 】【[We ❤ Swift](http://www.weheartswift.com/)】【[Swift 资源集合](https://swift.zeef.com/robin.eggenkamp)】【[SoSo Swift](http://www.sososwift.com/)】【[SwiftGG](http://swift.gg/)】
 
 ### 其他
 
@@ -43,7 +43,7 @@
 
 
 
-【 [i黑马](http://www.iheima.com/)】【 [IT桔子](https://www.itjuzi.com/)  】【[极客公园](http://www.geekpark.net/)】【[品玩](http://www.pingwest.com/)】【[人人都是产品经理——iamsujie](http://iamsujie.com/)】【[36氪](http://36kr.com/) 】【[可能吧](https://kenengba.com/) 】【[推酷](http://www.tuicool.com/)】【[干货集中营](http://gank.io/) 】【[浏览迷](http://liulanmi.com/)】【[Tech Web](http://www.techweb.com.cn/)】【[第九阅览室](http://9yls.net/) 】【[IT时代](http://www.itxinwen.com/)】【[科学松鼠会](http://songshuhui.net/) 】【[Engadget中国](http://cn.engadget.com/) 】【[果壳](http://www.guokr.com/)  】【[极思维](http://www.topthink.com/)】【[Free Buf](http://www.freebuf.com/)】
+【 [i黑马](http://www.iheima.com/)】【 [IT桔子](https://www.itjuzi.com/)  】【[极客公园](http://www.geekpark.net/)】【[品玩](http://www.pingwest.com/)】【[36氪](http://36kr.com/) 】【[可能吧](https://kenengba.com/) 】【[推酷](http://www.tuicool.com/)】【[浏览迷](http://liulanmi.com/)】【[Tech Web](http://www.techweb.com.cn/)】【[第九阅览室](http://9yls.net/) 】【[IT时代](http://www.itxinwen.com/)】【[科学松鼠会](http://songshuhui.net/) 】【[Engadget中国](http://cn.engadget.com/) 】【[果壳](http://www.guokr.com/)  】【[极思维](http://www.topthink.com/)】【[Free Buf](http://www.freebuf.com/)】【[创见](http://tech2ipo.com/)】【[砍柴网](http://www.ikanchai.com/)】【[创业邦](http://www.cyzone.cn/)】【[前瞻网](http://www.qianzhan.com/)】【[创投圈](https://www.vc.cn/)】【[创业谱](http://www.chuangyepu.com/)】【[比特网](http://www.chinabyte.com/)】【[艾瑞](http://www.iresearch.cn/)】【[易观](http://www.analysys.cn/)】【[KickStarter](https://www.kickstarter.com/)】
 
 
 
@@ -166,11 +166,21 @@
 ## 开发者工具
 
 ### 编程
-【[在线工具](http://www.atool.org/)】【[Convert CSV or Excel File To SQLite](http://converttosqlite.com/)】【[DB Tools](http://www.whitetown.com/)】【[worktile](https://worktile.com)】【[Json可视化](http://json.bloople.net/)】【[站长工具](http://tool.chinaz.com/)】【[Unicode编码转换](http://tool.chinaz.com/Tools/Unicode.aspx)】【[云梯](https://www.yuntibit.com)】【[Bitbucket](https://bitbucket.org/)】【[Cocoa Docs](http://cocoadocs.org/)】【CocoaPos】【[Github](https://github.com/)】【[Open Hub](https://www.openhub.net/)】【[Code Project](http://www.codeproject.com/)】【[Code review](http://reviewcode.cn/)】
+【[在线工具](http://www.atool.org/)】【[Convert CSV or Excel File To SQLite](http://converttosqlite.com/)】【[DB Tools](http://www.whitetown.com/)】【[worktile](https://worktile.com)】【[站长工具](http://tool.chinaz.com/)】【[Unicode编码转换](http://tool.chinaz.com/Tools/Unicode.aspx)】【[云梯](https://www.yuntibit.com)】【[Bitbucket](https://bitbucket.org/)】【[Cocoa Docs](http://cocoadocs.org/)】【CocoaPos】【[Github](https://github.com/)】【[Open Hub](https://www.openhub.net/)】【[Code Project](http://www.codeproject.com/)】【[Code review](http://reviewcode.cn/)】
+
+
+
+### JSON
+
+【[Json可视化](http://json.bloople.net/)】【[在线代码格式化](http://tool.oschina.net/codeformat/json)】【[JSON相关](http://www.bejson.com/)】【[JSON工具集](http://www.sojson.com/)】
+
+谷歌插件【[JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) 】【[FE助手](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad)】【[JSON-hanlde](https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj)】
+
+
 
 ### 视觉
 
-【[在线颜色选择器 | RGB颜色查询对照表]([]: http://www.atool.org/colorpicker.php[]: ) （[主站](http://www.atool.org/)）】【[百度移动用户体验部](http://mux.baidu.com/)】【[腾讯MXD移动互联网设计中心](http://mxd.tencent.com/)】【[Dribbble](https://dribbble.com/)】【[Capptivate](http://capptivate.co/)】【[icons8](https://icons8.com/)】【[Behance](https://www.behance.net/)】【[Mobile Design Patterns](http://pttrns.com/)】【[Font Awesome](http://fontawesome.io/)】【[clker](http://www.clker.com/)】【[icon finder](https://www.iconfinder.com/)】【[App Animations](http://www.appanimations.com/)】【[iconion](http://iconion.com/)】【[font squirrel](https://www.fontsquirrel.com/)】【[Free fonts](http://www.1001freefonts.com/)】【[百度Web前段研发部](http://fex.baidu.com/)】【[Flaticon](http://www.flaticon.com/) 】【[Web Design](http://www.webdesignerdepot.com/)】【[UI4App](http://ui4app.com/)】【[Sketch news](http://sketchnews.co/)】【[background labs](http://www.backgroundlabs.com/)】【[Facebook Design](http://facebook.design/)】【[iOS Design](https://designcode.io/)】【[make App icon](http://makeappicon.com/)】【[icons to png](http://fa2png.io/)】【[H5百度](http://h5.baidu.com/)】
+【[unocode emoji list](http://unicode.org/emoji/charts/full-emoji-list.html)】【[emojipedia](http://emojipedia.org/)】【[在线颜色选择器 | RGB颜色查询对照表]([]: http://www.atool.org/colorpicker.php[]: ) （[主站](http://www.atool.org/)）】【[百度移动用户体验部](http://mux.baidu.com/)】【[腾讯MXD移动互联网设计中心](http://mxd.tencent.com/)】【[Dribbble](https://dribbble.com/)】【[Capptivate](http://capptivate.co/)】【[icons8](https://icons8.com/)】【[Behance](https://www.behance.net/)】【[Mobile Design Patterns](http://pttrns.com/)】【[Font Awesome](http://fontawesome.io/)】【[clker](http://www.clker.com/)】【[icon finder](https://www.iconfinder.com/)】【[App Animations](http://www.appanimations.com/)】【[iconion](http://iconion.com/)】【[font squirrel](https://www.fontsquirrel.com/)】【[Free fonts](http://www.1001freefonts.com/)】【[百度Web前段研发部](http://fex.baidu.com/)】【[Flaticon](http://www.flaticon.com/) 】【[Web Design](http://www.webdesignerdepot.com/)】【[UI4App](http://ui4app.com/)】【[Sketch news](http://sketchnews.co/)】【[background labs](http://www.backgroundlabs.com/)】【[Facebook Design](http://facebook.design/)】【[iOS Design](https://designcode.io/)】【[make App icon](http://makeappicon.com/)】【[icons to png](http://fa2png.io/)】【[H5百度](http://h5.baidu.com/)】
 
 ### 指南
 
