@@ -2,7 +2,7 @@
 
 ### 每日
 
-【[CocoaChina](http://www.cocoachina.com/)】【[iOS developer:tips](http://iosdevelopertips.com/)】【[NSHipster](http://nshipster.com/)（[中文站点](http://nshipster.cn/))】【[RAYWENDERLICH](https://www.raywenderlich.com/)	】【[Big Nerd Ranch](https://www.bignerdranch.com/blog/)】【[AppCoda](http://www.appcoda.com/)】【[CocoaControls](https://www.cocoacontrols.com/)】										
+【[CocoaChina](http://www.cocoachina.com/)】【[iOS developer:tips](http://iosdevelopertips.com/)】【[NSHipster](http://nshipster.com/)（[中文站点](http://nshipster.cn/))】【[RAYWENDERLICH](https://www.raywenderlich.com/)	】【[Big Nerd Ranch](https://www.bignerdranch.com/blog/)】【[AppCoda](http://www.appcoda.com/)】【[CocoaControls](https://www.cocoacontrols.com/)】【[掘金](https://gold.xitu.io/)】										
 ### 周报
 【[iOS Dev Weekly](https://iosdevweekly.com/)】【[iOS Goodies](http://ios-goodies.com/)】		
 ### 高质量
@@ -23,7 +23,7 @@
 
 ### 其他
 
-【[美团点评技术团队](http://tech.meituan.com/)】【[ManiacDev](https://maniacdev.com/)】【[InfoQ](http://www.infoq.com/cn/)】		
+【[美团点评技术团队](http://tech.meituan.com/)】【[ManiacDev](https://maniacdev.com/)】【[InfoQ](http://www.infoq.com/cn/)】【[微信移动开发](https://github.com/WeMobileDev/article)】【[刘未鹏](http://mindhacks.cn/)】【[结构之法 算法之道](http://blog.csdn.net/v_july_v)】【[微信读书](https://wereadteam.github.io/)】
 
 
 
@@ -172,13 +172,13 @@
 
 ### JSON
 
-【[Json可视化](http://json.bloople.net/)】【[在线代码格式化](http://tool.oschina.net/codeformat/json)】【[JSON相关](http://www.bejson.com/)】【[JSON工具集](http://www.sojson.com/)】
+【[JSON中国](http://www.json.org.cn/)】【[Json可视化](http://json.bloople.net/)】【[在线代码格式化](http://tool.oschina.net/codeformat/json)】【[JSON相关](http://www.bejson.com/)】【[JSON工具集](http://www.sojson.com/)】
 
 
 
 ### 视觉
 
-【[iconfont](http://iconfont.cn/)】【[unocode emoji list](http://unicode.org/emoji/charts/full-emoji-list.html)】【[emojipedia](http://emojipedia.org/)】【[在线颜色选择器 | RGB颜色查询对照表]([ http://www.atool.org/colorpicker.php]: ) （[主站](http://www.atool.org/)）】【[百度移动用户体验部](http://mux.baidu.com/)】【[腾讯MXD移动互联网设计中心](http://mxd.tencent.com/)】【[Dribbble](https://dribbble.com/)】【[Capptivate](http://capptivate.co/)】【[icons8](https://icons8.com/)】【[Behance](https://www.behance.net/)】【[Mobile Design Patterns](http://pttrns.com/)】【[Font Awesome](http://fontawesome.io/)】【[clker](http://www.clker.com/)】【[icon finder](https://www.iconfinder.com/)】【[App Animations](http://www.appanimations.com/)】【[iconion](http://iconion.com/)】【[font squirrel](https://www.fontsquirrel.com/)】【[Free fonts](http://www.1001freefonts.com/)】【[百度Web前段研发部](http://fex.baidu.com/)】【[Flaticon](http://www.flaticon.com/) 】【[Web Design](http://www.webdesignerdepot.com/)】【[UI4App](http://ui4app.com/)】【[Sketch news](http://sketchnews.co/)】【[background labs](http://www.backgroundlabs.com/)】【[Facebook Design](http://facebook.design/)】【[iOS Design](https://designcode.io/)】【[make App icon](http://makeappicon.com/)】【[icons to png](http://fa2png.io/)】【[H5百度](http://h5.baidu.com/)】
+【[freepik](http://www.freepik.com/)】【[Flaticon](http://www.flaticon.com/) 】【[shutterstock](https://www.shutterstock.com)】【[iconfont](http://iconfont.cn/)】【[unocode emoji list](http://unicode.org/emoji/charts/full-emoji-list.html)】【[emojipedia](http://emojipedia.org/)】【[在线颜色选择器 | RGB颜色查询对照表]([ http://www.atool.org/colorpicker.php] ) （[主站](http://www.atool.org/)）】【[百度移动用户体验部](http://mux.baidu.com/)】【[腾讯MXD移动互联网设计中心](http://mxd.tencent.com/)】【[Dribbble](https://dribbble.com/)】【[Capptivate](http://capptivate.co/)】【[icons8](https://icons8.com/)】【[Behance](https://www.behance.net/)】【[Mobile Design Patterns](http://pttrns.com/)】【[Font Awesome](http://fontawesome.io/)】【[clker](http://www.clker.com/)】【[icon finder](https://www.iconfinder.com/)】【[App Animations](http://www.appanimations.com/)】【[iconion](http://iconion.com/)】【[font squirrel](https://www.fontsquirrel.com/)】【[Free fonts](http://www.1001freefonts.com/)】【[百度Web前段研发部](http://fex.baidu.com/)】【[Web Design](http://www.webdesignerdepot.com/)】【[UI4App](http://ui4app.com/)】【[Sketch news](http://sketchnews.co/)】【[background labs](http://www.backgroundlabs.com/)】【[Facebook Design](http://facebook.design/)】【[iOS Design](https://designcode.io/)】【[make App icon](http://makeappicon.com/)】【[icons to png](http://fa2png.io/)】【[H5百度](http://h5.baidu.com/)】
 
 ### 指南
 
