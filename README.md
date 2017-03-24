@@ -15,7 +15,7 @@
 
 
 
-【[玉令天下的博客](http://yulingtianxia.com/)】【[南峰子的技术博客](http://southpeak.github.io/)	】【[里脊串的开发随笔](http://adad184.com/)】						
+【[玉令天下的博客](http://yulingtianxia.com/)】【[南峰子的技术博客](http://southpeak.github.io/)	】【[里脊串的开发随笔](http://adad184.com/)】【[飞行日志](http://blog.fir.im/)】						
 
 ### Swift
 
@@ -68,6 +68,12 @@
 
 
 【[十五言](http://www.15yan.com/)】【[有意思吧](http://www.u148.net/)】【[译言古登堡计划](http://g.yeeyan.org/)】【 [芥末堆](http://www.jiemodui.com/)】【[思想者博客](http://blog.21ccom.net/)】【[左岸读书](http://www.zreading.cn/)】【[简书](http://www.jianshu.com/)】【 [政见](http://cnpolitics.org/) 】【[博闻网](http://www.bowenwang.com.cn/)】【 [Time](http://www.time.com/)】【 [NBA中国](http://china.nba.com/)】【[Meta Filter](http://www.metafilter.com/)】【[思维者博客](http://bigthink.com/)】【[战隼的学习探索](http://www.read.org.cn/)】【[思维导图学习社区](http://www.mindmap.com.cn/)】【[经济学人](http://www.economist.com/)】【[TED](http://www.ted.com/)】【 [一席](http://yixi.tv/) 】【[褪墨・时间管理](http://www.mifengtd.cn/)】【 [四点网](http://4dian.sinaapp.com/)】
+
+
+
+## 视野
+
+【[朝鲜](http://kcna.kp/kcna.user.home.retrieveHomeInfoList.kcmsf)】【[看国外](http://www.kanguowai.com/)】【[韩联社](http://chinese.yonhapnews.co.kr/)】【[KBS](http://world.kbs.co.kr/chinese/)】
 
 
 
@@ -165,7 +171,17 @@
 
 ## 开发者工具
 
+### 外包
+
+
+
+【[码市](https://mart.coding.net)】【[快码](http://www.kuai.ma/)】【[程序员客栈](https://www.proginn.com/)】
+
+
+
+
 ### 编程
+
 【[在线工具](http://www.atool.org/)】【[Convert CSV or Excel File To SQLite](http://converttosqlite.com/)】【[DB Tools](http://www.whitetown.com/)】【[worktile](https://worktile.com)】【[站长工具](http://tool.chinaz.com/)】【[Unicode编码转换](http://tool.chinaz.com/Tools/Unicode.aspx)】【[云梯](https://www.yuntibit.com)】【[Bitbucket](https://bitbucket.org/)】【[Cocoa Docs](http://cocoadocs.org/)】【CocoaPos】【[Github](https://github.com/)】【[Open Hub](https://www.openhub.net/)】【[Code Project](http://www.codeproject.com/)】【[Code review](http://reviewcode.cn/)】
 
 
@@ -190,7 +206,7 @@
 
 ### 开发者服务
 
-【[App竞品大数据平台](http://www.appduu.com/)】【[China App](http://www.chinaapp.org/)】【[墨刀](https://modao.cc)】【[APIStore百度](http://apistore.baidu.com/)】【[GPSspg查询网](http://www.gpsspg.com/)】【[中国互联网数据平台](http://www.cnidp.cn/)】【[聚合数据平台](http://www.fenxi.com/)】【[Talking Data](http://www.talkingdata.com/)】【[Api tools](https://www.apitools.com/)】【[5sing 音乐解析](http://5sing.uyy.so/)】【[APICloud](http://www.apicloud.com/)】【[Mob](http://www.mob.com/)】【[Fabric](https://fabric.io)】【[Fir](http://fir.im/)】【[Test Flight](https://www.testflightapp.com/)】【[爱开发](http://www.akaifa.com/)】【[DevStore](http://www.devstore.cn/)】【[在线API](http://swagger.io/)】【[SDK](https://www.sdk.cn)】【[AnySDK](http://www.anysdk.com/)】【[程序员客栈](https://www.proginn.com/)】【[解放号](https://www.jointforce.com)】【[Ping++](https://www.pingxx.com)】【[环信](http://www.easemob.com/)】【[Google在线Api](https://developers.google.com/tag-manager/ios/v3/)】【[Hockey App](https://www.hockeyapp.net)】【[SoBug](https://sobug.com/)】【[Flurry](https://dev.flurry.com)】【[云之声](http://www.unisound.com/)】【[极客帮](http://www.looip.cn/)】【[Bugly](https://bugly.qq.com)】
+【[App竞品大数据平台](http://www.appduu.com/)】【[China App](http://www.chinaapp.org/)】【[墨刀](https://modao.cc)】【[APIStore百度](http://apistore.baidu.com/)】【[GPSspg查询网](http://www.gpsspg.com/)】【[中国互联网数据平台](http://www.cnidp.cn/)】【[聚合数据平台](http://www.fenxi.com/)】【[Talking Data](http://www.talkingdata.com/)】【[Api tools](https://www.apitools.com/)】【[5sing 音乐解析](http://5sing.uyy.so/)】【[APICloud](http://www.apicloud.com/)】【[Mob](http://www.mob.com/)】【[Fabric](https://fabric.io)】【[Fir](http://fir.im/)】【[Test Flight](https://www.testflightapp.com/)】【[DevStore](http://www.devstore.cn/)】【[在线API](http://swagger.io/)】【[SDK](https://www.sdk.cn)】【[AnySDK](http://www.anysdk.com/)】【[解放号](https://www.jointforce.com)】【[Ping++](https://www.pingxx.com)】【[环信](http://www.easemob.com/)】【[Google在线Api](https://developers.google.com/tag-manager/ios/v3/)】【[Hockey App](https://www.hockeyapp.net)】【[SoBug](https://sobug.com/)】【[Flurry](https://dev.flurry.com)】【[云之声](http://www.unisound.com/)】【[极客帮](http://www.looip.cn/)】【[Bugly](https://bugly.qq.com)】
 
 ***
 
