@@ -202,11 +202,25 @@
 
 ### 开放平台
 
-【[微信](https://open.weixin.qq.com )】【[微博](http://open.weibo.com/)】【[腾讯](http://op.open.qq.com/)】【[有道云笔记](http://note.youdao.com/open)】【[印象笔记](https://dev.yinxiang.com/)】【[豆瓣](https://developers.douban.com)】【[Twitter](https://dev.twitter.com/)】【[人人](http://open.renren.com/)】【[支付宝](https://doc.open.alipay.com/)】【[微信支付](https://pay.weixin.qq.com)】【[Facebook](https://developers.facebook.com)】【[气象数据开放平台](http://openweather.weather.com.cn/)】
+【[微信](https://open.weixin.qq.com )】【[微博](http://open.weibo.com/)】【[腾讯](http://op.open.qq.com/)】【[有道云笔记](http://note.youdao.com/open/developguide.html)】【[印象笔记](https://dev.yinxiang.com/)】【[豆瓣](https://developers.douban.com)】【[Twitter](https://dev.twitter.com/)】【[人人](http://open.renren.com/)】【[支付宝](https://doc.open.alipay.com/)】【[微信支付](https://pay.weixin.qq.com)】【[Facebook](https://developers.facebook.com)】【[气象数据开放平台](http://openweather.weather.com.cn/)】
 
 ### 开发者服务
 
-【[App竞品大数据平台](http://www.appduu.com/)】【[China App](http://www.chinaapp.org/)】【[墨刀](https://modao.cc)】【[APIStore百度](http://apistore.baidu.com/)】【[GPSspg查询网](http://www.gpsspg.com/)】【[中国互联网数据平台](http://www.cnidp.cn/)】【[聚合数据平台](http://www.fenxi.com/)】【[Talking Data](http://www.talkingdata.com/)】【[Api tools](https://www.apitools.com/)】【[5sing 音乐解析](http://5sing.uyy.so/)】【[APICloud](http://www.apicloud.com/)】【[Mob](http://www.mob.com/)】【[Fabric](https://fabric.io)】【[Fir](http://fir.im/)】【[Test Flight](https://www.testflightapp.com/)】【[DevStore](http://www.devstore.cn/)】【[在线API](http://swagger.io/)】【[SDK](https://www.sdk.cn)】【[AnySDK](http://www.anysdk.com/)】【[解放号](https://www.jointforce.com)】【[Ping++](https://www.pingxx.com)】【[环信](http://www.easemob.com/)】【[Google在线Api](https://developers.google.com/tag-manager/ios/v3/)】【[Hockey App](https://www.hockeyapp.net)】【[SoBug](https://sobug.com/)】【[Flurry](https://dev.flurry.com)】【[云之声](http://www.unisound.com/)】【[极客帮](http://www.looip.cn/)】【[Bugly](https://bugly.qq.com)】
+【[App竞品大数据平台](http://www.appduu.com/)】【[China App](http://www.chinaapp.org/)】【[墨刀](https://modao.cc)】【[GPSspg查询网](http://www.gpsspg.com/)】【[中国互联网数据平台](http://www.cnidp.cn/)】【[Talking Data](http://www.talkingdata.com/)】【[Api tools](https://www.apitools.com/)】【[5sing 音乐解析](http://5sing.uyy.so/)】【[APICloud](http://www.apicloud.com/)】【[Mob](http://www.mob.com/)】【[Fabric](https://fabric.io)】【[Fir](http://fir.im/)】【[Test Flight](https://www.testflightapp.com/)】【[DevStore](http://www.devstore.cn/)】【[在线API](http://swagger.io/)】【[SDK](https://www.sdk.cn)】【[AnySDK](http://www.anysdk.com/)】【[解放号](https://www.jointforce.com)】【[Ping++](https://www.pingxx.com)】【[环信](http://www.easemob.com/)】【[Google在线Api](https://developers.google.com/tag-manager/ios/v3/)】【[Hockey App](https://www.hockeyapp.net)】【[SoBug](https://sobug.com/)】【[Flurry](https://dev.flurry.com)】【[云之声](http://www.unisound.com/)】【[极客帮](http://www.looip.cn/)】【[Bugly](https://bugly.qq.com)】
+
+
+
+### 数据API平台
+
+【[聚合数据平台](http://www.fenxi.com/)】【[APIStore百度](http://apistore.baidu.com/) 收费】【[京东万象](http://wx.jcloud.com/)】【[数据堂](http://www.datatang.com/) 收费】【[APIX](https://www.apix.cn) 有免费】【[通联数据](https://www.datayes.com/)】【[数据宝](https://www.chinadatapay.com)】【[极速数据](https://www.jisuapi.com)】【[HaoService](http://www.haoservice.com/)】【[和天气](https://www.heweather.com/) 优秀】【[API Providers](https://apigee.com/providers)】【】
+
+
+
+### 产品发布
+
+【[新品啦](http://xinpinla.com/)】【[36氪 Next](http://next.36kr.com/posts)】【[Mind](http://mindstore.io/)】【[我造](http://www.tmtpost.com/trendmakers)】【[入手](http://www.rushou.net/)】【[Today](http://today.itjuzi.com/)】
+
+
 
 ***
 
@@ -333,6 +347,7 @@
 
 
 ##Git
+
 
 ### github增强
 
