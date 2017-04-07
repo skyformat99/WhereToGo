@@ -1,13 +1,15 @@
 - [精选](#精选)
- * 每日(#每日)
- * 周报(#周报)
- * 高质量(#高质量)
- * 博客(#博客)
- * Swift(#swift)
- * 其他(#其他)
+  - 每日(#每日)
+  - 周报(#周报)
+  - 高质量(#高质量)
+  - 博客(#博客)
+  - Swift(#swift)
+  - 其他(#其他)
+
+
 - [学习](#学习)
 - [图书](#图书)
-- [开发者](#开发者)
+- [开发](#开发)
 - [iOS](#ios)
 - [Git](#git)
 - [软件](#软件)
@@ -49,11 +51,17 @@
 
 
 
-### 公开课/En
+### 公开课
 
 
 
-【[网易公开课](http://open.163.com/)】【[MOOC 中国](http://www.mooc.cn/)】【[学堂在线](http://www.xuetangx.com/)】【[壹课堂](http://www.1ketang.com/) 】【 [中国大学MOOC](http://www.icourse163.org/) 】【 [爱课程](http://www.icourses.cn/)】【 [Open edX](https://www.edx.org/)】【 [MIT Open CourseWare](http://ocw.mit.edu/) 】【 [Open Yale course](http://oyc.yale.edu/)】【[Khan Academy](https://www.khanacademy.org)】【 [好知网](http://www.howzhi.com/) 】【[中国讲座网](http://www.chinalecture.com/)】【[公开课纪录片下载网](http://www.opclass.com/)  】【 [精品课](http://www.jingpinke.com/)  】【[北京大学公开课](http://opencourse.pku.edu.cn/course/opencourse)】【 [西安交通大学网络公开课](http://oc.xjtu.edu.cn/) 】【 [课程图谱](http://coursegraph.com/navigation/)】【[Wordnik](https://www.wordnik.com/)】【[Dictionary](http://www.dictionary.com/)】【 [webster online dictionary](http://visual.merriam-webster.com/)】【 [扇贝](https://www.shanbay.com/)】【[Academic Earth](http://academicearth.org/)】【[Coursera](https://www.coursera.org) 】【[wolframalpha](http://www.wolframalpha.com/) 】【 [易文言网](http://www.ewenyan.com/) 】【[汉典](http://www.zdic.net/) 】【[Better Explained](https://betterexplained.com/)】
+【[网易公开课](http://open.163.com/)】【[MOOC 中国](http://www.mooc.cn/)】【[学堂在线](http://www.xuetangx.com/)】【[壹课堂](http://www.1ketang.com/) 】【 [中国大学MOOC](http://www.icourse163.org/) 】【 [爱课程](http://www.icourses.cn/)】【 [Open edX](https://www.edx.org/)】【 [MIT Open CourseWare](http://ocw.mit.edu/) 】【 [Open Yale course](http://oyc.yale.edu/)】【[Khan Academy](https://www.khanacademy.org)】【 [好知网](http://www.howzhi.com/) 】【[中国讲座网](http://www.chinalecture.com/)】【[公开课纪录片下载网](http://www.opclass.com/)  】【 [精品课](http://www.jingpinke.com/)  】【[北京大学公开课](http://opencourse.pku.edu.cn/course/opencourse)】【 [西安交通大学网络公开课](http://oc.xjtu.edu.cn/) 】【 [课程图谱](http://coursegraph.com/navigation/)】【[Wordnik](https://www.wordnik.com/)】【[Coursera](https://www.coursera.org) 】
+
+
+
+### 词典
+
+【 [易文言网](http://www.ewenyan.com/) 】【[汉典](http://www.zdic.net/) 】【 [扇贝](https://www.shanbay.com/)】【[Academic Earth](http://academicearth.org/)】【[Dictionary](http://www.dictionary.com/)】【 [webster online dictionary](http://visual.merriam-webster.com/)】【[Better Explained](https://betterexplained.com/)】【[wolframalpha](http://www.wolframalpha.com/) 】
 
 
 
@@ -62,14 +70,6 @@
 
 
 【 [i黑马](http://www.iheima.com/)】【 [IT桔子](https://www.itjuzi.com/)  】【[极客公园](http://www.geekpark.net/)】【[品玩](http://www.pingwest.com/)】【[36氪](http://36kr.com/) 】【[可能吧](https://kenengba.com/) 】【[推酷](http://www.tuicool.com/)】【[浏览迷](http://liulanmi.com/)】【[Tech Web](http://www.techweb.com.cn/)】【[第九阅览室](http://9yls.net/) 】【[IT时代](http://www.itxinwen.com/)】【[科学松鼠会](http://songshuhui.net/) 】【[Engadget中国](http://cn.engadget.com/) 】【[果壳](http://www.guokr.com/)  】【[极思维](http://www.topthink.com/)】【[Free Buf](http://www.freebuf.com/)】【[创见](http://tech2ipo.com/)】【[砍柴网](http://www.ikanchai.com/)】【[创业邦](http://www.cyzone.cn/)】【[前瞻网](http://www.qianzhan.com/)】【[创投圈](https://www.vc.cn/)】【[创业谱](http://www.chuangyepu.com/)】【[比特网](http://www.chinabyte.com/)】【[艾瑞](http://www.iresearch.cn/)】【[易观](http://www.analysys.cn/)】【[KickStarter](https://www.kickstarter.com/)】【[人人都是产品经理](http://www.woshipm.com/)】【[爱范儿](http://www.ifanr.com/)】
-
-
-
-### 应用推荐
-
-
-
-【[最美应用](http://zuimeia.com/) 】【[爱屁屁](http://www.appnz.com/)】【[少数派](http://sspai.com/) 】【 [AppShopper](http://appshopper.com/)】【[Next](http://next.36kr.com/posts) 】【[今日应用](http://www.qdaily.com/special_columns/22.html)】【[小众软件](http://www.appinn.com/) 】【[APP每日推送](http://appdp.com/) 】【[app solution](http://www.ifanr.com/app)】【 [Mind](http://mindstore.io/) 】【 [我造社区](http://www.tmtpost.com/trendmakers)】
 
 
 
@@ -187,7 +187,7 @@
 
 
 
-## 开发者
+## 开发
 
 ### 外包
 
@@ -198,9 +198,9 @@
 
 
 
-### 编程
+### 工具
 
-【[在线工具](http://www.atool.org/)】【[Convert CSV or Excel File To SQLite](http://converttosqlite.com/)】【[DB Tools](http://www.whitetown.com/)】【[worktile](https://worktile.com)】【[站长工具](http://tool.chinaz.com/)】【[Unicode编码转换](http://tool.chinaz.com/Tools/Unicode.aspx)】【[云梯](https://www.yuntibit.com)】【[Bitbucket](https://bitbucket.org/)】【[Cocoa Docs](http://cocoadocs.org/)】【CocoaPos】【[Github](https://github.com/)】【[Open Hub](https://www.openhub.net/)】【[Code Project](http://www.codeproject.com/)】【[Code review](http://reviewcode.cn/)】
+【[在线工具](http://www.atool.org/)】【[Convert CSV or Excel File To SQLite](http://converttosqlite.com/)】【[DB Tools](http://www.whitetown.com/)】【[worktile](https://worktile.com)】【[站长工具](http://tool.chinaz.com/)】【[Unicode编码转换](http://tool.chinaz.com/Tools/Unicode.aspx)】【[云梯](https://www.yuntibit.com)】【[Bitbucket](https://bitbucket.org/)】【[Cocoa Docs](http://cocoadocs.org/)】【CocoaPods】【[Github](https://github.com/)】【[Open Hub](https://www.openhub.net/)】【[Code Project](http://www.codeproject.com/)】【[Code review](http://reviewcode.cn/)】
 
 
 
@@ -210,33 +210,23 @@
 
 
 
-### 视觉
-
-【[freepik](http://www.freepik.com/)】【[Flaticon](http://www.flaticon.com/) 】【[shutterstock](https://www.shutterstock.com)】【[iconfont](http://iconfont.cn/)】【[unocode emoji list](http://unicode.org/emoji/charts/full-emoji-list.html)】【[emojipedia](http://emojipedia.org/)】【 [在线颜色选择器 | RGB颜色查询对照表](http://www.atool.org/colorpicker.php)（[主站](http://www.atool.org/)）】【[百度移动用户体验部](http://mux.baidu.com/)】【[腾讯MXD移动互联网设计中心](http://mxd.tencent.com/)】【[Dribbble](https://dribbble.com/)】【[Capptivate](http://capptivate.co/)】【[icons8](https://icons8.com/)】【[Behance](https://www.behance.net/)】【[Mobile Design Patterns](http://pttrns.com/)】【[Font Awesome](http://fontawesome.io/)】【[clker](http://www.clker.com/)】【[icon finder](https://www.iconfinder.com/)】【[App Animations](http://www.appanimations.com/)】【[iconion](http://iconion.com/)】【[font squirrel](https://www.fontsquirrel.com/)】【[Free fonts](http://www.1001freefonts.com/)】【[百度Web前段研发部](http://fex.baidu.com/)】【[Web Design](http://www.webdesignerdepot.com/)】【[UI4App](http://ui4app.com/)】【[Sketch news](http://sketchnews.co/)】【[background labs](http://www.backgroundlabs.com/)】【[Facebook Design](http://facebook.design/)】【[iOS Design](https://designcode.io/)】【[make App icon](http://makeappicon.com/)】【[icons to png](http://fa2png.io/)】【[H5百度](http://h5.baidu.com/)】
-
-### 指南
-
-【[Stack Overflow](https://stackoverflow.com/)】【[Quora](https://www.quora.com/)】【[Segment Fault](https://segmentfault.com/)】【[Slant](https://segmentfault.com/)】【[Slide Share](http://www.slideshare.net/)】
-
 ### 开放平台
 
 【[微信](https://open.weixin.qq.com )】【[微博](http://open.weibo.com/)】【[腾讯](http://op.open.qq.com/)】【[有道云笔记](http://note.youdao.com/open/developguide.html)】【[印象笔记](https://dev.yinxiang.com/)】【[豆瓣](https://developers.douban.com)】【[Twitter](https://dev.twitter.com/)】【[人人](http://open.renren.com/)】【[支付宝](https://doc.open.alipay.com/)】【[微信支付](https://pay.weixin.qq.com)】【[Facebook](https://developers.facebook.com)】【[气象数据开放平台](http://openweather.weather.com.cn/)】
 
-### 开发者服务
+
+
+### 服务
 
 【[App竞品大数据平台](http://www.appduu.com/)】【[China App](http://www.chinaapp.org/)】【[墨刀](https://modao.cc)】【[GPSspg查询网](http://www.gpsspg.com/)】【[中国互联网数据平台](http://www.cnidp.cn/)】【[Talking Data](http://www.talkingdata.com/)】【[Api tools](https://www.apitools.com/)】【[5sing 音乐解析](http://5sing.uyy.so/)】【[APICloud](http://www.apicloud.com/)】【[Mob](http://www.mob.com/)】【[Fabric](https://fabric.io)】【[Fir](http://fir.im/)】【[Test Flight](https://www.testflightapp.com/)】【[DevStore](http://www.devstore.cn/)】【[在线API](http://swagger.io/)】【[SDK](https://www.sdk.cn)】【[AnySDK](http://www.anysdk.com/)】【[解放号](https://www.jointforce.com)】【[Ping++](https://www.pingxx.com)】【[环信](http://www.easemob.com/)】【[Google在线Api](https://developers.google.com/tag-manager/ios/v3/)】【[Hockey App](https://www.hockeyapp.net)】【[SoBug](https://sobug.com/)】【[Flurry](https://dev.flurry.com)】【[云之声](http://www.unisound.com/)】【[极客帮](http://www.looip.cn/)】【[Bugly](https://bugly.qq.com)】
 
 
 
-### 数据API平台
+### API
+
+
 
 【[聚合数据平台](http://www.fenxi.com/)】【[APIStore百度](http://apistore.baidu.com/) 收费】【[京东万象](http://wx.jcloud.com/)】【[数据堂](http://www.datatang.com/) 收费】【[APIX](https://www.apix.cn) 有免费】【[通联数据](https://www.datayes.com/)】【[数据宝](https://www.chinadatapay.com)】【[极速数据](https://www.jisuapi.com)】【[HaoService](http://www.haoservice.com/)】【[和天气](https://www.heweather.com/) 优秀】【[API Providers](https://apigee.com/providers)】【】
-
-
-
-### 产品发布
-
-【[新品啦](http://xinpinla.com/)】【[36氪 Next](http://next.36kr.com/posts)】【[Mind](http://mindstore.io/)】【[我造](http://www.tmtpost.com/trendmakers)】【[入手](http://www.rushou.net/)】【[Today](http://today.itjuzi.com/)】
 
 
 
@@ -244,9 +234,63 @@
 
 
 
-### 指南
+## 设计
 
-【[Tutorials Point](http://www.tutorialspoint.com/)】【[LintCode](http://www.lintcode.com/)】【 [Fenby](http://www.fenby.com/)  】【[Git Logs](http://www.gitlogs.com/resource-guides?ref=producthunt)】
+
+
+### 工具
+
+【 [在线颜色选择器 | RGB颜色查询对照表](http://www.atool.org/colorpicker.php)（[主站](http://www.atool.org/)）】【[make App icon](http://makeappicon.com/)】
+
+
+
+### 原型
+
+
+
+### icons
+
+【[icons8](https://icons8.com/)】【[iconion](http://iconion.com/)】【[icon finder](https://www.iconfinder.com/)】【[icons to png](http://fa2png.io/)】
+
+
+
+### 交互
+
+
+
+### 大公司
+
+【[百度移动用户体验部](http://mux.baidu.com/)】【[腾讯MXD移动互联网设计中心](http://mxd.tencent.com/)】【[百度Web前段研发部](http://fex.baidu.com/)】【[H5百度](http://h5.baidu.com/)】
+
+
+
+【[freepik](http://www.freepik.com/)】【[Flaticon](http://www.flaticon.com/) 】【[shutterstock](https://www.shutterstock.com)】【[iconfont](http://iconfont.cn/)】【[unocode emoji list](http://unicode.org/emoji/charts/full-emoji-list.html)】【[emojipedia](http://emojipedia.org/)】【[Dribbble](https://dribbble.com/)】【[Capptivate](http://capptivate.co/)】【[Behance](https://www.behance.net/)】【[Mobile Design Patterns](http://pttrns.com/)】【[Font Awesome](http://fontawesome.io/)】【[clker](http://www.clker.com/)】【[App Animations](http://www.appanimations.com/)】【[font squirrel](https://www.fontsquirrel.com/)】【[Free fonts](http://www.1001freefonts.com/)】【[Web Design](http://www.webdesignerdepot.com/)】【[UI4App](http://ui4app.com/)】【[Sketch news](http://sketchnews.co/)】【[background labs](http://www.backgroundlabs.com/)】【[Facebook Design](http://facebook.design/)】【[iOS Design](https://designcode.io/)】
+
+
+
+***
+
+
+
+## 产品
+
+
+
+### 应用推荐
+
+
+
+【[新品啦](http://xinpinla.com/)】【[36氪 Next](http://next.36kr.com/posts)】【[入手](http://www.rushou.net/)】【[Today](http://today.itjuzi.com/)】【[最美应用](http://zuimeia.com/) 】【[爱屁屁](http://www.appnz.com/)】【[少数派](http://sspai.com/) 】【 [AppShopper](http://appshopper.com/)】【[今日应用](http://www.qdaily.com/special_columns/22.html)】【[小众软件](http://www.appinn.com/) 】【[APP每日推送](http://appdp.com/) 】【[app solution](http://www.ifanr.com/app)】【 [Mind](http://mindstore.io/) 】【 [我造社区](http://www.tmtpost.com/trendmakers)】
+
+
+
+
+
+***
+
+
+
+## 编程
 
 ### 算法
 
@@ -268,9 +312,7 @@
 【[Laravel](https://laravel.com/)   [中文站](http://www.golaravel.com/)】【[PHP官方](http://php.net/) 】【[W3C PHP教程](http://www.w3school.com.cn/php/)】【 [PHP 100](http://www.php100.com/)】【[PHPCon China 开发者社区](http://www.phpchina.com/)】【[PHPHub](https://phphub.org/)  】
 
 
-### 开源
-
-【 [Apache](http://apache.org/)】【[Open Source Initiative](https://opensource.org/)】
+### 
 
 ### 网络/大数据/云计算
 
@@ -280,6 +322,8 @@
 ### Webrtc/MQTT
 
 【 [WebRtc Explore](https://github.com/wenghengcong/WebRtcExplore)】【[WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)】【[WebRTC 1.0](https://www.w3.org/TR/webrtc/)】【[Webrtc Official](https://webrtc.org/)】
+
+
 
 ### H5/JS/CSS
 
@@ -297,14 +341,17 @@
 
 【[Joomla](https://www.joomla.org/) 】【 [Magento](http://www.magentochina.org/) 】【[DNSPOD](https://www.dnspod.cn)】【[百度站长](http://zhanzhang.baidu.com/dashboard/index)】【[友言](http://www.uyan.cc/) 】【[友荐](http://www.ujian.cc/)  】【[XMPP](https://www.apachefriends.org/zh_cn/index.html)】【[多说](http://duoshuo.com/)】【[GoDaddy](www.godaddy.com)  】【 [CNZZ](http://www.cnzz.com/) 】【[友盟](http://www.umeng.com/) 】【  [Hexo](https://hexo.io/)   】【[Hexo Next 主题](http://theme-next.iissnan.com/getting-started.html)】【 [百度统计](http://tongji.baidu.com/) 】
 
+
+
 ###  数据库
 
 【 [Redis](http://redis.io/) （[中文](http://redis.cn/)）】【[W3School SQL教程](http://www.w3school.com.cn/sql/)】【[SQLite教程](http://www.runoob.com/sqlite/sqlite-tutorial.html)】
 
 
+
 ###  其他
 
-【[The Programming Languages Beacon](http://www.lextrait.com/vincent/implementations.html) 】【 [typing](https://typing.io)】【 [MSDN资源收集](http://msdn.itellyou.cn/)】【[UML软件工程组织](http://www.uml.org.cn/) 】【 [IBM UML资源中心](http://www.ibm.com/developerworks/cn/rational/uml/) 】【 [IETF Documents](https://tools.ietf.org/html/) 】
+【[The Programming Languages Beacon](http://www.lextrait.com/vincent/implementations.html) 】【 [typing](https://typing.io)】【 [MSDN资源收集](http://msdn.itellyou.cn/)】【[UML软件工程组织](http://www.uml.org.cn/) 】【 [IBM UML资源中心](http://www.ibm.com/developerworks/cn/rational/uml/) 】【 [IETF Documents](https://tools.ietf.org/html/) 】【[Tutorials Point](http://www.tutorialspoint.com/)】【[LintCode](http://www.lintcode.com/)】【 [Fenby](http://www.fenby.com/)  】【[Git Logs](http://www.gitlogs.com/resource-guides?ref=producthunt)】【[Stack Overflow](https://stackoverflow.com/)】【[Quora](https://www.quora.com/)】【[Segment Fault](https://segmentfault.com/)】【[Slant](https://segmentfault.com/)】【[Slide Share](http://www.slideshare.net/)】【 [Apache](http://apache.org/)】【[Open Source Initiative](https://opensource.org/)】
 
 
 
@@ -344,9 +391,9 @@
 
 【[iOS 系统占比](https://developer.apple.com/support/app-store/)】【[Apple Official](https://forums.developer.apple.com/welcome) 】【[iOS 设备技术规格](https://support.apple.com/zh_CN/specs/iphone) 】【[iOS Developer Library](https://developer.apple.com/library/ios/navigation/#)】【 [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)】【[Getting Started with LLDB](https://developer.apple.com/library/mac/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-basics.html) 】【[xcodebuild man page](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/xcodebuild.1.html)】【 [Apple Search](https://developer.apple.com/search/) 】【[Degugging Support](https://developer.apple.com/support/debugging/) 】【[Code signning Support](https://developer.apple.com/support/code-signing/)】【[Certificates Support](https://developer.apple.com/support/certificates/) 】
 
+
+
 ### 工具
-
-
 
 【  [Reveal](http://revealapp.com/)	UI调试工具  】【[Launch Kit](https://launchkit.io/)】【[Apple Dev Download](https://developer.apple.com/downloads/)】【[APNs推送测试](http://www.pushwatch.com/apns/)】【[Apple API测试](https://www.osstatus.com)	Look up Apple API errors fast! 】【 [APNs推送测试](http://apns-gcm.bryantan.info/)】【[Infer](http://fbinfer.com/) （[中文](http://infer.liaohuqiu.net/docs/getting-started.html)）代码静态分析工具】【 [Safedk](https://www.safedk.com/) 	Find the Best SDK for You!  】【[xamarin](https://www.xamarin.com) 	移动跨平台开发解决方案】【 [苹果开发者联盟](http://www.iosappx.com/)	中文互联网最大的苹果开发资源归类网站 】
 
@@ -382,13 +429,13 @@
 
 
 
-### 编译与分析
+### 编译
 
 【[gym](https://github.com/fastlane/fastlane/tree/master/gym)	gym builds and packages iOS and OS X apps for you. It takes care of all the heavy lifting and makes it super easy to generate a signed ipa or app file】【[xcpretty](https://github.com/supermarin/xcpretty)	xcpretty is a fast and flexible formatter for xcodebuild.】【[xctool](https://github.com/facebook/xctool)	xctool is a replacement for Apple's xcodebuild that makes it easier to test iOS and Mac products. It's especially helpful for continuous integration.】【[chisel](https://github.com/facebook/chisel)	Chisel is a collection of LLDB commands to assist in the debugging of iOS apps.】【[infer](https://github.com/facebook/infer)	A static analyzer for Java, C and Objective-C】【[fir-cli](https://github.com/FIRHQ/fir-cli/blob/master/README.md)	fir.im-cli 可以通过指令查看, 上传, 编译 iOS/Android 应用】【[plcrashreporter](https://github.com/plausiblelabs/plcrashreporter)	崩溃分析框架】
 
 
 
-### 常用第三方库
+### 第三方库
 
 【[fmdb](https://github.com/ccgus/fmdb)】【CocoaLumberjack】【IQKeyboardManager】【Masonry】【PNChart】【SVPullToRefresh】【EAIntroView】【IBActionSheet】【IHKeyboardAvoiding】【iOS Categories】【ios fontawesome】【JSQMessagesViewController】【Kal】【KVOController】【libPhoneNumber】【MWPhotoBrowser】【MZTimerLabel】【PonyDebugger】【PPiAwesomeButton】【Reachability】【PPRevealSideViewController】【RMSwipeTableViewCell】【UICKeyChainStore】【ViewDeck【[Timeline](https://github.com/edekhayser/Timeline)】【[timeLineiOS](https://github.com/romaHerman/timeLineiOS)】【[THCalendarDatePicker](https://github.com/hons82/THCalendarDatePicker)	A DatePicker based on a custom calendar view】【[FLEX](https://github.com/Flipboard/FLEX)	An in-app debugging and exploration tool for iOS】【[MMDrawerController](https://github.com/mutualmobile/MMDrawerController)	A lightweight, easy to use, Side Drawer Navigation Controller】【[DACircularProgress](https://github.com/danielamitay/DACircularProgress)	DACircularProgress is a UIView subclass with circular UIProgressView properties.】【[VVeboTableViewDemo	](https://github.com/johnil/VVeboTableViewDemo)VVebo剥离的TableView绘制】【[SAMultisectorControl](https://github.com/snipter/SAMultisectorControl)	Multiple control】【[PMCalendar](https://github.com/kovpas/PMCalendar)】【[AwesomeMenu](https://github.com/levey/AwesomeMenu)	Path 2.0 menu using CoreAnimation】【[BROptionsButton](https://github.com/BasheerSience/BROptionsButton)	Amazing options button for your UITabBar, with very beautiful dynamic animation. Pimp your tabBar】【[tapkulibrary](https://github.com/devinross/tapkulibrary)	tap + haiku = tapku, a well crafted open source iOS framework】【[EFCircularSlider](https://github.com/eliotfowler/EFCircularSlider)	An extensible circular slider for iOS applications】
 
@@ -418,6 +465,6 @@
 
 
 
-### 资源下载站
+### 下载
 
 【[麦创网](http://www.memacx.com/)  】【[XY苹果助手](http://www.xyzs.com/)】【[爱情守望者](http://www.waitsun.com/) 】【[91苹果下载](http://app.91.com/) 	 ipa 下载】【[ipa下载](http://www.iapp001.com/)】
