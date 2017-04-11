@@ -8,10 +8,10 @@
 - [学习](#学习)
     - [公开课](#公开课)
     - [Startup](#startup) 
-    - [Startup](#startup) 
-    - [Startup](#startup) 
-    - [Startup](#startup) 
-    - [Startup](#startup) 
+    - [影音](#影音) 
+    - [人文时政](#人文时政) 
+    - [视野](#视野) 
+    - [有趣](#有趣) 
 - [图书](#图书)
     - [ebook](#ebook)
     - [Kindle](#kindle) 
@@ -206,7 +206,7 @@
 
 
 
-### Kinde
+### Kindle
 
 
 
