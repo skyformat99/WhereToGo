@@ -6,17 +6,55 @@
     - [Swift](#swift)
     - [其他](#其他)
 - [学习](#学习)
+    - [公开课](#公开课)
+    - [Startup](#startup) 
+    - [Startup](#startup) 
+    - [Startup](#startup) 
+    - [Startup](#startup) 
+    - [Startup](#startup) 
 - [图书](#图书)
+    - [ebook](#ebook)
+    - [Kindle](#kindle) 
+    - [pdf](#pdf) 
 - [开发](#开发)
+    - [工具](#工具)
+    - [开放平台](#开放平台) 
+    - [服务](#服务) 
+    - [API](#api) 
 - [设计](#设计)
+    - [工具](#工具)
+    - [icons](#icons) 
+    - [Sketch](#sketch) 
+    - [行业](#行业) 
 - [产品](#产品)
+    - [应用推荐](#应用推荐)
 - [编程](#编程)
+    - [算法](#算法)
+    - [C/C++](#c/c++) 
+    - [Java](#Java) 
+    - [Php](#php) 
+    - [网络/大数据/云计算](#网络/大数据/云计算) 
+    - [Webrtc/MQTT](#webrtc/mqtt)
+    - [建站](#建站) 
+    - [数据库](#数据库) 
+    - [其他](#其他) 
 - [iOS](#ios)
+    - [博客](#博客)
+    - [语言](#语言) 
+    - [专题](#专题) 
+    - [Apple](#apple) 
+    - [工具](#工具) 
+    - [源码](#源码) 
 - [Github](#github)
+    - [工具](#工具)
+    - [Organization](#organization) 
+    - [编译](#编译) 
+    - [库](#库) 
 - [软件](#软件)
-
-
-
+    - [Chrome插件](#chrome插件)
+    - [Mac](#mac) 
+    - [Windows](#windows) 
+    - [下载](#下载) 
 
 
 ## 精选
@@ -73,7 +111,7 @@
 
 
 
-### 科技/创业
+### Startup
 
 
 
@@ -81,12 +119,12 @@
 
 
 
-### 文艺
+### 影音
 
 
 
 【[全球酷站中心](http://pixid.cn/)  】【[The Sweet setup](http://thesweetsetup.com/)】【[花瓣](http://huaban.com/) 】【 [国外网站分享](http://www.egouz.com/)】【[Online Library of Liberty](http://oll.libertyfund.org/)】【[乐童音乐](http://www.musikid.com/)】【 [静雅思听](http://www.justing.com.cn/)】【[makeuserof](http://www.makeuseof.com/)】【[Answers](http://www.answers.com/) 】【[Internet Archive](https://archive.org/) 】【[Google Image Ripper](http://www.googleimageripper.com/)】【[Icon wanted](http://iconwanted.com/)】【[Brands World](http://www.brandsoftheworld.com/)】【[UICloud](http://ui-cloud.com/)】【[AMIT AGARWAL](https://ctrlq.org/)】【 [电影天堂](http://www.dytt8.net/)】【[时光网](http://www.mtime.com/)】【 [IMDB](http://www.imdb.com/) 】【[美国国家地理](http://www.natgeo.com.cn/) 】【[中国国家地理](http://www.dili360.com/)】【[西林街](http://www.xilinjie.com/)】【[盘多多](http://www.panduoduo.net/) 】
-
+【[CCTV纪实](http://jishi.cctv.com/index.shtml)】【[CCTV9纪录频道](http://tv.cctv.com/cctv9/)】【[3e帝国](http://bbs.3e-online.com/)】【 [高清影视下载](http://www.gaoqing.tv/)】【[地理时间](http://www.comgeo.net/)】
 
 
 ### 人文时政
@@ -104,16 +142,7 @@
 【[朝鲜](http://kcna.kp/kcna.user.home.retrieveHomeInfoList.kcmsf)】【[看国外](http://www.kanguowai.com/)】【[韩联社](http://chinese.yonhapnews.co.kr/)】【[KBS](http://world.kbs.co.kr/chinese/)】
 
 
-
-### 纪录
-
-
-
-【[CCTV纪实](http://jishi.cctv.com/index.shtml)】【[CCTV9纪录频道](http://tv.cctv.com/cctv9/)】【[3e帝国](http://bbs.3e-online.com/)】【 [高清影视下载](http://www.gaoqing.tv/)】【[地理时间](http://www.comgeo.net/)】
-
-
-
-### 奇趣
+### 有趣
 
 
 
@@ -206,16 +235,6 @@
 ## 开发
 
 
-
-### 外包
-
-
-
-【[码市](https://mart.coding.net)】【[快码](http://www.kuai.ma/)】【[程序员客栈](https://www.proginn.com/)】
-
-
-
-
 ### 工具
 
 
@@ -245,6 +264,8 @@
 【[App竞品大数据平台](http://www.appduu.com/)】【[China App](http://www.chinaapp.org/)】【[墨刀](https://modao.cc)】【[GPSspg查询网](http://www.gpsspg.com/)】【[中国互联网数据平台](http://www.cnidp.cn/)】【[Talking Data](http://www.talkingdata.com/)】【[Api tools](https://www.apitools.com/)】【[5sing 音乐解析](http://5sing.uyy.so/)】【[APICloud](http://www.apicloud.com/)】【[Mob](http://www.mob.com/)】【[Fabric](https://fabric.io)】【[Fir](http://fir.im/)】【[Test Flight](https://www.testflightapp.com/)】【[DevStore](http://www.devstore.cn/)】【[在线API](http://swagger.io/)】【[SDK](https://www.sdk.cn)】【[AnySDK](http://www.anysdk.com/)】【[解放号](https://www.jointforce.com)】【[Ping++](https://www.pingxx.com)】【[环信](http://www.easemob.com/)】【[Google在线Api](https://developers.google.com/tag-manager/ios/v3/)】【[Hockey App](https://www.hockeyapp.net)】【[SoBug](https://sobug.com/)】【[Flurry](https://dev.flurry.com)】【[云之声](http://www.unisound.com/)】【[极客帮](http://www.looip.cn/)】【[Bugly](https://bugly.qq.com)】
 
 
+【[码市](https://mart.coding.net)】【[快码](http://www.kuai.ma/)】【[程序员客栈](https://www.proginn.com/)】
+
 
 ### API
 
@@ -260,6 +281,10 @@
 
 ## 设计
 
+### Sketch
+
+
+【[sketch cn](http://sketchcn.com/)】【[sketch app sources](https://www.sketchappsources.com)】【[sketch cn](http://www.sketchs.cn/)】【[极客学院Sketch课程](http://www.jikexueyuan.com/course/sketch)】【】【】【】
 
 
 ### 工具
@@ -286,7 +311,7 @@
 
 
 
-### 大公司
+### 行业
 
 
 
@@ -310,7 +335,7 @@
 
 
 
-【[新品啦](http://xinpinla.com/)】【[36氪 Next](http://next.36kr.com/posts)】【[入手](http://www.rushou.net/)】【[Today](http://today.itjuzi.com/)】【[最美应用](http://zuimeia.com/) 】【[爱屁屁](http://www.appnz.com/)】【[少数派](http://sspai.com/) 】【 [AppShopper](http://appshopper.com/)】【[今日应用](http://www.qdaily.com/special_columns/22.html)】【[小众软件](http://www.appinn.com/) 】【[APP每日推送](http://appdp.com/) 】【[app solution](http://www.ifanr.com/app)】【 [Mind](http://mindstore.io/) 】【 [我造社区](http://www.tmtpost.com/trendmakers)】
+【[新品啦](http://xinpinla.com/)】【[36氪 Next](http://next.36kr.com/posts)】【[Today](http://today.itjuzi.com/)】【[最美应用](http://zuimeia.com/) 】【[爱屁屁](http://www.appnz.com/)】【[少数派](http://sspai.com/) 】【 [AppShopper](http://appshopper.com/)】【[今日应用](http://www.qdaily.com/special_columns/22.html)】【[小众软件](http://www.appinn.com/) 】【[APP每日推送](http://appdp.com/) 】【[app solution](http://www.ifanr.com/app)】【 [Mind](http://mindstore.io/) 】【 [我造社区](http://www.tmtpost.com/trendmakers)】
 
 
 
@@ -354,8 +379,7 @@
 
 【[Laravel](https://laravel.com/)   [中文站](http://www.golaravel.com/)】【[PHP官方](http://php.net/) 】【[W3C PHP教程](http://www.w3school.com.cn/php/)】【 [PHP 100](http://www.php100.com/)】【[PHPCon China 开发者社区](http://www.phpchina.com/)】【[PHPHub](https://phphub.org/)  】
 
-
-### 
+ 
 
 ### 网络/大数据/云计算
 
@@ -461,7 +485,7 @@
 
 
 
-### 源码研读
+### 源码
 
 【[SDWebimage](https://bpoplauschi.wordpress.com/2014/03/21/ios-image-caching-sdwebimage-vs-fastimage/)】【 [SDWebimage](http://iphonedevsdk.com/forum/iphone-sdk-development/119971-downloading-multiple-images-with-sdwebimage-and-notify-when-finished.html)】
 
@@ -479,7 +503,7 @@
 
 
 
-【[GitHut](http://githut.info/)	 A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB】【[Gist box](https://app.gistboxapp.com)】【[Git Constellation](http://gitconstellation.com/)	GitHub star management on steroids! Organise your GitHub stars by arranging them into lists or tagging repositories, share those lists with friends or keep them private.】【[omniref](https://www.omniref.com/)	Intelligent annotation for your source code.】【[First Aid git](http://firstaidgit.io/)	the most frequently asked questions about git issues】【[Pro Git v2 中文版](http://wiki.jikexueyuan.com/project/pro-git-two/)】【[GitHuber](http://githuber.info/)】【[GitHub Ranking](https://github-ranking.com)	GitHub star ranking for users, organizations and repositories.】【[Octicons icons](http://fa2png.io/r/octicons/)】【[shields io	](http://shields.io/)生成readme.md图标】【[CODELF	](http://unbug.github.io/codelf/)Search over projects from GitHub, Bitbucket, Google Code and more to find】【[Github Awards](http://github-awards.com/)】【[Gist box](https://app.gistboxapp.com)】【[Github Hunter](https://octohunt.com/)	Find Developer on github】【[GitHub Reviews](https://githubreviews.com/)】
+【[GitHut](http://githut.info/)	 A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB】【[Gist box](https://app.gistboxapp.com)】【[Git Constellation](http://gitconstellation.com/)	GitHub star management on steroids! Organise your GitHub stars by arranging them into lists or tagging repositories, share those lists with friends or keep them private.】【[omniref](https://www.omniref.com/)	Intelligent annotation for your source code.】【[First Aid git](http://firstaidgit.io/)	the most frequently asked questions about git issues】【[Pro Git v2 中文版](http://wiki.jikexueyuan.com/project/pro-git-two/)】【[GitHuber](http://githuber.info/)】【[GitHub Ranking](https://github-ranking.com)	GitHub star ranking for users, organizations and repositories.】【[Octicons icons](http://fa2png.io/r/octicons/)】【[shields io	](http://shields.io/)生成readme.md图标】【[CODELF	](http://unbug.github.io/codelf/)Search over projects from GitHub, Bitbucket, Google Code and more to find】【[Github Awards](http://github-awards.com/)】【[Gist box](https://app.gistboxapp.com)】【[Github Hunter](https://octohunt.com/)	Find Developer on github】【[GitHub Reviews](https://githubreviews.com/)】【[Astral](https://app.astralapp.com)】
 
 
 
@@ -499,7 +523,7 @@
 
 
 
-### 第三方库
+### 库
 
 
 
