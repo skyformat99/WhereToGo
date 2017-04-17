@@ -290,7 +290,7 @@
 
 
 
-【[sketch cn](http://sketchcn.com/)】【[sketch app sources](https://www.sketchappsources.com)】【[sketch cn](http://www.sketchs.cn/)】【[极客学院Sketch课程](http://www.jikexueyuan.com/course/sketch)】【】【】【】
+【[sketch cn](http://sketchcn.com/)】【[sketch app sources](https://www.sketchappsources.com)】【[sketch cn](http://www.sketchs.cn/)】【[极客学院Sketch课程](http://www.jikexueyuan.com/course/sketch)】【[Sketch IM](http://sketch.im/)】【】【】
 
 
 
@@ -361,6 +361,8 @@
 
 
 【[SORTING 排序算法](http://sorting.at/)】【[Top Coder](http://www.topcoder.com/)】【[Hacker Earth](https://www.hackerearth.com/)】【[Codility](https://codility.com/programmers/)】【[Sphere online judge](http://www.spoj.com/)】【 [Code eval](https://www.codeeval.com/)】【[Hacker Rank](https://www.hackerrank.com/)】【[Code Wars](https://www.codewars.com/)】【 [Coder byte](https://coderbyte.com/)】【[Project Euler](https://projecteuler.net/)】【 [Code Chef](http://www.codechef.com/) 】【 [杭电ACM](http://acm.hdu.edu.cn/)】【[ACM之家](http://www.acmerblog.com/) 】【[演算法笔记](http://www.csie.ntnu.edu.tw/)】【 [浙大ACM](http://acm.zju.edu.cn/)】【[北大ACM](http://poj.org/) 】【[编程中国-数据结构](http://old.bccn.net/Article/kfyy/sjjg/List_1.html) 】【[Learn Algorithms](http://www.learnalgorithms.in/)】【 [Book-Data Structures and Algorithms](http://www.brpreiss.com/)】
+
+【[LeetCode ](https://leetcode.com/)  刷题优选】【[牛客](https://www.nowcoder.com/) 面试优选】【[Codility](https://codility.com/)】【[猿圈](https://www.oxcoder.com)】
 
 
 
@@ -503,7 +505,11 @@
 
 
 
-【[GitHut](http://githut.info/)	 A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB】【[Gist box](https://app.gistboxapp.com)】【[Git Constellation](http://gitconstellation.com/)	GitHub star management on steroids! Organise your GitHub stars by arranging them into lists or tagging repositories, share those lists with friends or keep them private.】【[omniref](https://www.omniref.com/)	Intelligent annotation for your source code.】【[First Aid git](http://firstaidgit.io/)	the most frequently asked questions about git issues】【[Pro Git v2 中文版](http://wiki.jikexueyuan.com/project/pro-git-two/)】【[GitHuber](http://githuber.info/)】【[GitHub Ranking](https://github-ranking.com)	GitHub star ranking for users, organizations and repositories.】【[Octicons icons](http://fa2png.io/r/octicons/)】【[shields io	](http://shields.io/)生成readme.md图标】【[CODELF	](http://unbug.github.io/codelf/)Search over projects from GitHub, Bitbucket, Google Code and more to find】【[Github Awards](http://github-awards.com/)】【[Gist box](https://app.gistboxapp.com)】【[Github Hunter](https://octohunt.com/)	Find Developer on github】【[GitHub Reviews](https://githubreviews.com/)】【[Astral](https://app.astralapp.com)】
+【[GitHut](http://githut.info/)	 A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB】【[Gist box](https://app.gistboxapp.com)】【[omniref](https://www.omniref.com/)	Intelligent annotation for your source code.】【[First Aid git](http://firstaidgit.io/)	the most frequently asked questions about git issues】【[Pro Git v2 中文版](http://wiki.jikexueyuan.com/project/pro-git-two/)】【[GitHuber](http://githuber.info/)】【[GitHub Ranking](https://github-ranking.com)	GitHub star ranking for users, organizations and repositories.】【[Octicons icons](http://fa2png.io/r/octicons/)】【[shields io	](http://shields.io/)生成readme.md图标】【[CODELF	](http://unbug.github.io/codelf/)Search over projects from GitHub, Bitbucket, Google Code and more to find】【[Github Awards](http://github-awards.com/)】【[Gist box](https://app.gistboxapp.com)】【[Github Hunter](https://octohunt.com/)	Find Developer on github】【[GitHub Reviews](https://githubreviews.com/)】
+
+
+
+【[Git Constellation](http://gitconstellation.com/)	GitHub star management on steroids! 】【[Astral](https://app.astralapp.com)】
 
 
 
