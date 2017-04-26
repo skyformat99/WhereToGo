@@ -431,6 +431,16 @@
 
 
 
+### 测试
+
+
+
+【[HTTP Request & Response Service](https://httpbin.org/)】【[RequestBin](http://requestb.in/)】【[PutsReq](http://putsreq.com/)】【[ChallengeRequest](https://greenbytes.de/tech/tc/httpauth/simplebasic.asis)】【[JSON Test](http://www.jsontest.com/)】
+
+【[File Upload](http://www.csm-testcenter.org/test?do=show&subdo=common&test=file_upload)】【[File Upload Test](https://ps.uci.edu/~franklin/doc/file_upload.html)】【[Rest test test](https://resttesttest.com/)】【[Free Image Hosting](http://www.freeimagehosting.net/)】
+
+
+
 ###  其他
 
 
@@ -557,6 +567,8 @@
 
 
 
+【[Packal](http://www.packal.org/) Alfred workflow】【[Alfred Foums](https://www.alfredforum.com)】
+
 ### Windows
 
 
@@ -570,3 +582,9 @@
 
 
 【[麦创网](http://www.memacx.com/)  】【[XY苹果助手](http://www.xyzs.com/)】【[爱情守望者](http://www.waitsun.com/) 】【[91苹果下载](http://app.91.com/) 	 ipa 下载】【[ipa下载](http://www.iapp001.com/)】
+
+
+
+### Help
+
+【[Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)】
