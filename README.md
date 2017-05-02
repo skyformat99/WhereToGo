@@ -284,6 +284,12 @@
 
 ## 设计
 
+###  
+
+### 准则
+
+【[iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)】【[Designing for iOS 10]( https://designcode.io/iosdesign-guidelines)】
+
 
 
 ### Sketch
@@ -322,7 +328,7 @@
 
 
 
-【[百度移动用户体验部](http://mux.baidu.com/)】【[腾讯MXD移动互联网设计中心](http://mxd.tencent.com/)】【[百度Web前段研发部](http://fex.baidu.com/)】【[H5百度](http://h5.baidu.com/)】
+【[百度移动用户体验部](http://mux.baidu.com/)】【[腾讯MXD移动互联网设计中心](http://mxd.tencent.com/)】【[百度Web前段研发部](http://fex.baidu.com/)】【[H5百度](http://h5.baidu.com/)】【[腾讯用户研究与体验设计部](http://cdc.tencent.com/)】【[腾讯社交用户体验设计](https://isux.tencent.com)】【[JDC](http://jdc.jd.com/)】【[凹凸实验室](https://aotu.io)】
 
 
 
