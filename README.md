@@ -22,10 +22,12 @@
     - [服务](#服务) 
     - [API](#api) 
 - [设计](#设计)
-    - [工具](#工具)
-    - [icons](#icons) 
+    - [规范](#规范)
     - [Sketch](#sketch) 
+    - [工具](#工具)
+    - [icon](#icon) 
     - [行业](#行业) 
+    - [资源](#资源)
 - [产品](#产品)
     - [应用推荐](#应用推荐)
 - [编程](#编程)
@@ -57,7 +59,7 @@
     - [下载](#下载) 
 
 
-[TOC]
+
 
 ## 精选
 
@@ -288,7 +290,7 @@
 
 ###  
 
-### 准则
+### 规范
 
 【[iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)】【[Designing for iOS 10]( https://designcode.io/iosdesign-guidelines)】
 
@@ -298,7 +300,7 @@
 
 
 
-【[sketch cn](http://sketchcn.com/)】【[sketch app sources](https://www.sketchappsources.com)】【[sketch cn](http://www.sketchs.cn/)】【[极客学院Sketch课程](http://www.jikexueyuan.com/course/sketch)】【[Sketch IM](http://sketch.im/)】【】【】
+【[sketch cn](http://sketchcn.com/)】【[sketch app sources](https://www.sketchappsources.com)】【[sketch cn](http://www.sketchs.cn/)】【[极客学院Sketch课程](http://www.jikexueyuan.com/course/sketch)】【[Sketch IM](http://sketch.im/)】【[Sketch news](http://sketchnews.co/)】
 
 
 
@@ -306,23 +308,15 @@
 
 
 
-【 [在线颜色选择器 | RGB颜色查询对照表](http://www.atool.org/colorpicker.php)（[主站](http://www.atool.org/)）】【[make App icon](http://makeappicon.com/)】
+【 [在线颜色选择器 | RGB颜色查询对照表](http://www.atool.org/colorpicker.php)（[主站](http://www.atool.org/)）】【[make App icon](http://makeappicon.com/)】【[unocode emoji list](http://unicode.org/emoji/charts/full-emoji-list.html)】【[emojipedia](http://emojipedia.org/)】
 
 
 
-### 原型
+### icon
 
 
 
-### icons
-
-
-
-【[icons8](https://icons8.com/)】【[iconion](http://iconion.com/)】【[icon finder](https://www.iconfinder.com/)】【[icons to png](http://fa2png.io/)】
-
-
-
-### 交互
+【[icons8](https://icons8.com/)】【[iconion](http://iconion.com/)】【[icon finder](https://www.iconfinder.com/)】【[icons to png](http://fa2png.io/)】【[Flaticon](http://www.flaticon.com/) 】【[iconfont](http://iconfont.cn/)】【[Font Awesome](http://fontawesome.io/)】
 
 
 
@@ -330,11 +324,15 @@
 
 
 
-【[百度移动用户体验部](http://mux.baidu.com/)】【[腾讯MXD移动互联网设计中心](http://mxd.tencent.com/)】【[百度Web前段研发部](http://fex.baidu.com/)】【[H5百度](http://h5.baidu.com/)】【[腾讯用户研究与体验设计部](http://cdc.tencent.com/)】【[腾讯社交用户体验设计](https://isux.tencent.com)】【[JDC](http://jdc.jd.com/)】【[凹凸实验室](https://aotu.io)】
+【[百度移动用户体验部](http://mux.baidu.com/)】【[腾讯MXD移动互联网设计中心](http://mxd.tencent.com/)】【[百度Web前段研发部](http://fex.baidu.com/)】【[H5百度](http://h5.baidu.com/)】【[腾讯用户研究与体验设计部](http://cdc.tencent.com/)】【[腾讯社交用户体验设计](https://isux.tencent.com)】【[JDC](http://jdc.jd.com/)】【[凹凸实验室](https://aotu.io)】【[Facebook Design](http://facebook.design/)】
 
 
 
-【[freepik](http://www.freepik.com/)】【[Flaticon](http://www.flaticon.com/) 】【[shutterstock](https://www.shutterstock.com)】【[iconfont](http://iconfont.cn/)】【[unocode emoji list](http://unicode.org/emoji/charts/full-emoji-list.html)】【[emojipedia](http://emojipedia.org/)】【[Dribbble](https://dribbble.com/)】【[Capptivate](http://capptivate.co/)】【[Behance](https://www.behance.net/)】【[Mobile Design Patterns](http://pttrns.com/)】【[Font Awesome](http://fontawesome.io/)】【[clker](http://www.clker.com/)】【[App Animations](http://www.appanimations.com/)】【[font squirrel](https://www.fontsquirrel.com/)】【[Free fonts](http://www.1001freefonts.com/)】【[Web Design](http://www.webdesignerdepot.com/)】【[UI4App](http://ui4app.com/)】【[Sketch news](http://sketchnews.co/)】【[background labs](http://www.backgroundlabs.com/)】【[Facebook Design](http://facebook.design/)】【[iOS Design](https://designcode.io/)】
+### 资源
+
+
+
+【[freepik](http://www.freepik.com/)】【[shutterstock](https://www.shutterstock.com)】【[Dribbble](https://dribbble.com/)】【[Capptivate](http://capptivate.co/)】【[Behance](https://www.behance.net/)】【[Mobile Design Patterns](http://pttrns.com/)】【[clker](http://www.clker.com/)】【[App Animations](http://www.appanimations.com/)】【[font squirrel](https://www.fontsquirrel.com/)】【[Free fonts](http://www.1001freefonts.com/)】【[Web Design](http://www.webdesignerdepot.com/)】【[UI4App](http://ui4app.com/)】【[background labs](http://www.backgroundlabs.com/)】【[iOS Design](https://designcode.io/)】【[awesome sketch](https://github.com/diessica/awesome-sketch)】【[awesome design](https://github.com/gztchan/awesome-design)】
 
 
 
