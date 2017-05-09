@@ -186,7 +186,7 @@
 
 
 
-【[FreeComputerBooks](http://www.freetechbooks.com/)		Free Computer, Mathematics, Technical Books and Lecture Notes, etc。部分书籍只提供试读。】
+【[FreeComputerBooks](http://www.onlineprogrammingbooks.com/)		Free Computer, Mathematics, Technical Books and Lecture Notes, etc。部分书籍只提供试读。】
 
 
 
@@ -353,6 +353,14 @@
 
 
 【[新品啦](http://xinpinla.com/)】【[36氪 Next](http://next.36kr.com/posts)】【[Today](http://today.itjuzi.com/)】【[最美应用](http://zuimeia.com/) 】【[爱屁屁](http://www.appnz.com/)】【[少数派](http://sspai.com/) 】【 [AppShopper](http://appshopper.com/)】【[今日应用](http://www.qdaily.com/special_columns/22.html)】【[小众软件](http://www.appinn.com/) 】【[APP每日推送](http://appdp.com/) 】【[app solution](http://www.ifanr.com/app)】【 [Mind](http://mindstore.io/) 】【 [我造社区](http://www.tmtpost.com/trendmakers)】
+
+
+
+### 限免
+
+
+
+【[AppZapp](http://www.appzapp.us/)】【[AppShopper](http://appshopper.com/)】 【[App Advice](https://appadvice.com)】【[Mevvy](https://mevvy.com/) Mevvy helps you discover great apps】
 
 
 
