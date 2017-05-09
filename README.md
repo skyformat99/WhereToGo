@@ -202,7 +202,15 @@
 
 
 
-【[好读](http://haodoo.net/)】【[高清杂志网](http://www.gqzzw.com/)】【[中国国家图书馆](http://www.nlc.gov.cn/)】【[World eBook Fair](http://worldebookfair.com/)】【[Wikibooks](https://en.wikibooks.org/wiki/Main_Page)】										
+【[好读](http://haodoo.net/)】【[中国国家图书馆](http://www.nlc.gov.cn/)】【[World eBook Fair](http://worldebookfair.com/)】【[Wikibooks](https://en.wikibooks.org/wiki/Main_Page)】										
+
+
+
+### 杂志
+
+
+
+【[高清杂志网](http://www.gqzzw.com/)】【[PDF之家](http://www.pdfzj.com/)】【[杂志100](http://www.goodbook100.com/)】【[杂志惠](http://www.zazhihui.net/)】【[奇咔杂志之家](http://www.qikzj.com/)】【[storeMags](http://storemags.com/)】【[谷博杂志馆](http://www.guapi.cn/)】【[若蓝格](http://www.ifblue.net/)】
 
 
 
